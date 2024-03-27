@@ -1,4 +1,4 @@
-<h1 align="center">Goldsvet 8.5 - 2K24</h1>
+<h1 align="center">Goldsvet Casino</h1>
 <h2 align="center">Aapanel/Cpanel/Plesk Casino Server Configuration Guide</h2>
 
 <p align="center">
