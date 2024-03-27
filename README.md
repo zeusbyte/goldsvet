@@ -124,6 +124,10 @@ Added 100 games, bringing total to 1200 games now.</p>
 
 ## Support the Project
 
+<p align="center">
+<img src="https://i.ibb.co/BTdNTxD/tate.png" alt="Alt Text" width="50%">
+</p>
+
 If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
 
 - **Bitcoin (BTC):**
