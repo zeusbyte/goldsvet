@@ -376,13 +376,15 @@ pm2 start Slots.js --watch</pre>
         <p>Shops are active in this version. You can manually select which categories each shop can use on creation.</p>
         <p>OR add this trigger to your MySQL so ALL categories are added to ALL new shops:</p>
         <p><b>AFTER YOU COMPLETE EVERY STEP MAKE SURE YOU DELETE THIS FILE INSTALL.PHP</b></p>
-        <pre class="sql-box">CREATE TRIGGER `after_shop_insert` 
+        <pre class="sql-box">DELIMITER //
+
+CREATE TRIGGER `after_shop_insert` 
 AFTER INSERT ON `w_shops`
 FOR EACH ROW 
 BEGIN
     -- Duplicate games with shop_id 1 to the new shop_id
     INSERT INTO w_games (name, title, shop_id, jpg_id, label, device, gamebank, chanceFirepot1, chanceFirepot2, chanceFirepot3, fireCount1, fireCount2, fireCount3, lines_percent_config_spin, lines_percent_config_spin_bonus, lines_percent_config_bonus, lines_percent_config_bonus_bonus, rezerv, cask, advanced, bet, scaleMode, slotViewState, view, denomination, category_temp, original_id, bids, stat_in, stat_out, created_at, updated_at)
-    SELECT name, title, NEW.id, jpg_id, label, device, gamebank, chanceFirepot1, chanceFirepot2, chanceFirepot3, fireCount1, fireCount2, fireCount3, lines_percent_config_spin, lines_percent_config_spin_bonus, lines_percent_config_bonus, lines_percent_config_bonus_bonus, rezerv, cask, advanced, bet, scaleMode, slotViewState, view, denomination, category_temp, original_id, bids, stat_in, stat_out, created_at, NOW()
+    SELECT name, title, NEW.id, jpg_id, label, device, gamebank, chanceFirepot1, chanceFirepot2, chanceFirepot3, fireCount1, fireCount2, fireCount3, lines_percent_config_spin, lines_percent_config_spin_bonus, lines_percent_config_bonus, lines_percent_config_bonus_bonus, rezerv, cask, advanced, bet, scaleMode, slotViewState, view, denomination, category_temp, original_id, bids, stat_in, stat_out, NOW(), NOW()
     FROM w_games
     WHERE shop_id = 1;
 
@@ -391,7 +393,11 @@ BEGIN
     SELECT date_time, name, balance, start_balance, pay_sum, percent, user_id, NEW.id
     FROM w_jpg
     WHERE shop_id = 1;
-END;</pre>
+END;
+//
+
+DELIMITER ;
+</pre>
     </div>
 </div>
 

@@ -1,7 +1,5 @@
-<?php
-
+ <?php
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Mail Driver
@@ -11,12 +9,11 @@ return [
     | sending of e-mail. You may specify which one you're using throughout
     | your application here. By default, Laravel is setup for SMTP mail.
     |
-    | Supported: "smtp", "mail", "sendmail", "mailgun", "mandrill", "ses", "log"
+    | Supported: "smtp", "sendmail", "mailgun", "mandrill", "ses",
+    |            "sparkpost", "postmark", "log", "array"
     |
     */
-
-    'mailer' => env('MAIL_MAILER', 'smtp'),
-
+    'driver' => env('MAIL_DRIVER', 'mail'),
     /*
     |--------------------------------------------------------------------------
     | SMTP Host Address
@@ -27,9 +24,7 @@ return [
     | the Mailgun mail service which will provide reliable deliveries.
     |
     */
-
-    'host' => env('MAIL_HOST', ''),
-
+    'host' => env('MAIL_HOST', 'smtp.gmail.com'),
     /*
     |--------------------------------------------------------------------------
     | SMTP Host Port
@@ -40,9 +35,7 @@ return [
     | stay compatible with the Mailgun e-mail application by default.
     |
     */
-
-    'port' => env('MAIL_PORT', 587),
-
+    'port' => env('MAIL_PORT', 465),
     /*
     |--------------------------------------------------------------------------
     | Global "From" Address
@@ -53,12 +46,10 @@ return [
     | used globally for all e-mails that are sent by your application.
     |
     */
-
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', ''),
-        'name' => env('MAIL_FROM_NAME', 'localhost')
+        'address' => env('MAIL_FROM_ADDRESS', 'from@gmail.com'),
+        'name' => env('MAIL_FROM_NAME', 'from'),
     ],
-
     /*
     |--------------------------------------------------------------------------
     | E-Mail Encryption Protocol
@@ -69,9 +60,7 @@ return [
     | transport layer security protocol should provide great security.
     |
     */
-
-    'encryption' => env('MAIL_ENCRYPTION', 'tls'),
-
+    'encryption' => env('MAIL_ENCRYPTION', 'ssl'),
     /*
     |--------------------------------------------------------------------------
     | SMTP Server Username
@@ -82,22 +71,8 @@ return [
     | connection. You may also set the "password" value below this one.
     |
     */
-
-    'username' => env('MAIL_USERNAME', ''),
-
-    /*
-    |--------------------------------------------------------------------------
-    | SMTP Server Password
-    |--------------------------------------------------------------------------
-    |
-    | Here you may set the password required by your SMTP server to send out
-    | messages from your application. This will be given to the server on
-    | connection so that the application will be able to send messages.
-    |
-    */
-
-    'password' => env('MAIL_PASSWORD', ''),
-
+    'username' => env('MAIL_USERNAME', 'username@gmail.com'),
+    'password' => env('MAIL_PASSWORD', 'password'),
     /*
     |--------------------------------------------------------------------------
     | Sendmail System Path
@@ -108,9 +83,7 @@ return [
     | been provided here, which will work well on most of your systems.
     |
     */
-
     'sendmail' => '/usr/sbin/sendmail -bs',
-
     /*
     |--------------------------------------------------------------------------
     | Markdown Mail Settings
@@ -127,5 +100,24 @@ return [
             resource_path('views/vendor/mail'),
         ],
     ],
-
+    /*
+    |--------------------------------------------------------------------------
+    | Log Channel
+    |--------------------------------------------------------------------------
+    |
+    | If you are using the "log" driver, you may specify the logging channel
+    | if you prefer to keep mail messages separate from other log entries
+    | for simpler reading. Otherwise, the default channel will be used.
+    |
+    */
+    'log_channel' => env('MAIL_LOG_CHANNEL'),
+    
+    'stream' => [
+        'ssl' => [
+            'allow_self_signed' => true,
+            'verify_peer' => false,
+            'verify_peer_name' => false,
+        ],
+    ]
 ];
+

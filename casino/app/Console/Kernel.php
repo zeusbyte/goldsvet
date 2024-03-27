@@ -6,7 +6,7 @@ namespace VanguardLTE\Console
         protected $commands = [];
         protected function schedule(\Illuminate\Console\Scheduling\Schedule $schedule)
         {
-            $schedule->command('queue:work --daemon')->everyMinute()->withoutOverlapping();
+            $schedule->command('queue:work --daemon > /dev/null 2>&1')->everyMinute()->withoutOverlapping();
             $schedule->call(function()
             {
                 \Spatie\DbDumper\Databases\MySql::create()->setDbName(config('database.connections.mysql.database'))->setUserName(config('database.connections.mysql.username'))->setPassword(config('database.connections.mysql.password'))->dumpToFile(base_path() . '/backups/' . date('Hi_dmY') . '.sql');

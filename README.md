@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet85/main/slot.png" alt="Alt Text" width="50%">
 </p>
-<p align="center"><a href="https://king777.de" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a></p>
+<p align="center"><a href="https://vip88game.com" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a></p>
 
 <p align="center"><span style="color:#ff0000"><strong>Goldsvet Latest 2024 release adds Laravel 10 and PHP 8.1+ support, Easy-Installer.</strong></span></p>
 <p>&nbsp;</p>
@@ -12,6 +12,11 @@
 <p><span style="color:#ff0000"><strong>Multiple fixes, merged single database&nbsp;</strong></span><br />
 Demo USER /Demo Play games is added and activated&nbsp;<br />
 Added 100 games, bringing total to 1200 games now.</p>
+
+<h2>Games Add-on Packages - Required</h2>
+
+<p><b>Currently, there are approximately 1200 games totaling 45+ GB. Including latest Pragmatic Games... + GEOIP2</p></b>
+<p><b>This package and additional services require a fee which you can message me on telegram or discord.</p></b>
 
 <ul>
     <li>Set up your server with the following components:
@@ -52,10 +57,10 @@ Added 100 games, bringing total to 1200 games now.</p>
 </ul>
 
 <h2>Minimal Installer</h2>
-<p>Upload/Clone all files from this repo and run the yourdomain.com/install.php</p>
+<p>Upload/Clone all files from this repo and run the yourdomain.com/start.php</p>
 <p>It will help you handle installation.</p>
 
-<h2>SSL Specific Instructions</h2>
+<h2>SSL Instructions</h2>
 
 <ul>
     <li>Delete any self-signed certificates.</li>
@@ -74,11 +79,6 @@ Added 100 games, bringing total to 1200 games now.</p>
 <h2>File Edits</h2>
 
 <p dir="auto">Edit <code>/</code> Socket File Changes in *json files.</p>
-
-<h2>Games Downloads</h2>
-
-<p>Currently, there are approximately 1000 games totaling 40 GB.</p>
-<p>Files uploaded soon.. or join our group to get it fast.</p>
 
 <h2>PM2 Commands</h2>
 
@@ -133,4 +133,4 @@ If you find this project useful and would like to show your support, you can mak
   - Wallet Address: 0x5fc161aDa8211982206C7A8ac83140001E9329c9
 
 - **USDT (Tron network):**
-  - Wallet Address: TEyxHVmRwjThiNcMJivLjspEeFwW8dunZo
+  - Wallet Address: TSbmnfXsD97QDx72NcsK55zaYK15fAYqqy
