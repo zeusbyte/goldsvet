@@ -1,0 +1,925 @@
+<html ng-app="woocasino" lang="en" xml:lang="en" ng-class="{'mobile-menu-open': $root.customParam.mobMenu}" class="ng-scope"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+        <base href="https://www.woocasino2.com/">
+        <!-- ngIf: !$root.toParams.provider || $root.toParams.provider == 'false' --><title ng-if="!$root.toParams.provider || $root.toParams.provider == 'false'" ng-bind="(page.game_title || page.title) + (page.game_title || page.title ? ' | ' : 'casino') + page.snippet_title" class="ng-binding ng-scope">casino| Woocasino
+</title><!-- end ngIf: !$root.toParams.provider || $root.toParams.provider == 'false' -->
+        <!-- ngIf: $root.toParams.provider && $root.toParams.provider != 'false' -->
+        <!-- ngIf: !$root.toParams.provider || $root.toParams.provider == 'false' --><meta ng-if="!$root.toParams.provider || $root.toParams.provider == 'false'" name="description" content="" class="ng-scope"><!-- end ngIf: !$root.toParams.provider || $root.toParams.provider == 'false' -->
+        <!-- ngIf: $root.toParams.provider && $root.toParams.provider != 'false' -->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700|Rubik:400,500,700&amp;display=swap&amp;subset=cyrillic" rel="stylesheet">
+        <meta name="render:status_code" content="404">
+
+        <!--favicon-->
+        <link rel="apple-touch-icon" sizes="180x180" href="/resources/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/resources/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/resources/favicon/favicon-16x16.png">
+        <link rel="mask-icon" href="/resources/favicon/safari-pinned-tab.svg" color="#e3161b">
+        <link rel="shortcut icon" href="/resources/favicon/favicon.ico">
+        <meta name="msapplication-TileColor" content="#242424">
+        <meta name="msapplication-config" content="/resources/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#131521">
+        <link rel="manifest" href="/manifest.json">
+        <!-- end favicon-->
+
+        <link rel="canonical" href="https://www.woocasino.com/index.html">
+
+        <link rel="alternate" hreflang="x-default" href="https://www.woocasino.com/index.html">
+        <link rel="alternate" hreflang="en" href="https://www.woocasino.com/index.html">
+        <link rel="alternate" hreflang="en-AU" href="https://www.woocasino.com/en-AU/index.html">
+        <link rel="alternate" hreflang="en-CA" href="https://www.woocasino.com/en-CA/index.html">
+        <link rel="alternate" hreflang="en-NZ" href="https://www.woocasino.com/en-NZ/index.html">
+        <link rel="alternate" hreflang="fr" href="https://www.woocasino.com/fr-CA/index.html">
+        <link rel="alternate" hreflang="ru" href="https://www.woocasino.com/ru/index.html">
+        <link rel="alternate" hreflang="de" href="https://www.woocasino.com/de/index.html">
+        <link rel="alternate" hreflang="nn" href="https://www.woocasino.com/nn/index.html">
+        <link rel="alternate" hreflang="fi" href="https://www.woocasino.com/fi/index.html">
+        <link rel="alternate" hreflang="pl" href="https://www.woocasino.com/pl/index.html">
+        <link rel="alternate" hreflang="cs" href="https://www.woocasino.com/cs/index.html">
+        <link rel="alternate" hreflang="it" href="https://www.woocasino.com/it/index.html">
+        <link rel="alternate" hreflang="ja" href="https://www.woocasino.com/ja/index.html">
+        <link rel="alternate" hreflang="hu" href="https://www.bobcasino.com/hu/index.html">
+
+        <!-- inject:lib:js --><!-- endinject -->
+        <!-- inject:app:js --><!-- endinject -->
+        <!-- inject:templates:js --><!-- endinject -->
+
+        <!-- inject:app-style:css --><link rel="stylesheet" href="/css/app.css?5845dfd14b9275aa02f01f8578c4207c"><!-- endinject -->
+
+    <style type="text/css">@keyframes spinner-line-fade-more {
+  0%, 100% {
+    opacity: 0; /* minimum opacity */
+  }
+  1% {
+    opacity: 1;
+  }
+}
+
+@keyframes spinner-line-fade-quick {
+  0%, 39%, 100% {
+    opacity: 0.25; /* minimum opacity */
+  }
+  40% {
+    opacity: 1;
+  }
+}
+
+@keyframes spinner-line-fade-default {
+  0%, 100% {
+    opacity: 0.22; /* minimum opacity */
+  }
+  1% {
+    opacity: 1;
+  }
+}
+</style><style type="text/css">#devcode_popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999999;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  #devcode_popup .background {
+    position: fixed;
+    background-color: black;
+    opacity: 0.7;
+    width: 100%;
+    height: 100%; }
+  #devcode_popup .outer-container {
+    padding: 40px 20px 10px;
+    background-color: white;
+    border-radius: 10px;
+    height: auto;
+    min-height: 10px;
+    overflow-y: auto;
+    transform: none;
+    position: relative;
+    left: 0;
+    top: 0;
+    right: auto;
+    bottom: auto;
+    width: auto;
+    display: inline-block;
+    margin: 0 auto; }
+    #devcode_popup .outer-container .close {
+      position: absolute;
+      font-size: 20px !important;
+      cursor: pointer;
+      z-index: 100;
+      right: 10px !important;
+      top: 10px !important; }
+    #devcode_popup .outer-container .inner-container {
+      max-height: calc(100vh - 100px);
+      overflow: hidden;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch; }
+      body.device-desktop #devcode_popup .outer-container .inner-container {
+        max-height: calc(100vh - 60px); }
+      #devcode_popup .outer-container .inner-container iframe {
+        border: none;
+        display: block;
+        margin: 0 auto;
+        max-width: 100% !important; }
+      #devcode_popup .outer-container .inner-container .devcode-success-messages li {
+        list-style: none;
+        padding: 5px; }
+        #devcode_popup .outer-container .inner-container .devcode-success-messages li span {
+          font-weight: bolder; }
+  #devcode_popup .polling-container {
+    width: 50px;
+    height: 50px; }
+</style><link rel="manifest" href="/manifest.json"></head>
+    <body class="device-desktop layout-default page-404" ng-class="{'hide-scroll-mob': $root.customParam.providersMob || $root.customParam.searchMob,
+                     'no-bonus': $root.data.current_ip.country_code === 'SE' || $root.data.user.country === 'SE'}">
+        <div>
+            <!-- ngIf: show_preloader -->
+            <div class="ng-isolate-scope">
+    <!-- ngIf: game_url -->
+</div>
+            <casino-notification></casino-notification>
+        </div>
+
+        <div id="woocasino" class="carcass">
+            <header class="header">
+    <div class="header__mob-container">
+        <div class="header__logo">
+            <a ui-sref="home()" class="header__logo-link" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="">
+                <img class="header__logo-img" src="resources/images/logo.svg" alt="WooCasino">
+            </a>
+        </div>
+        <div class="header__mob-wrp">
+            <!-- ngIf: $root.data.user.email -->
+            <!-- ngIf: $root.data.user.email -->
+            <!-- ngIf: !$root.data.user.email --><button class="header__mob-btn button button-secondary button-small ng-scope" ng-if="!$root.data.user.email" ng-controller="AuthModal" ng-click="auth_modal.showLogin()" translate="frontend.links.sign_in">Log in</button><!-- end ngIf: !$root.data.user.email -->
+            <a ng-click="$root.customParam.mobMenu = !$root.customParam.mobMenu; $root.customParam.searchMob = false; $root.search = ''" ng-class="{'header__mobile-menu--open': $root.customParam.mobMenu}" class="header__mobile-menu">
+                <span class="header__mobile-menu-icon"></span>
+                <span class="header__mobile-menu-icon"></span>
+                <span class="header__mobile-menu-icon"></span>
+            </a>
+        </div>
+    </div>
+    <div class="header__container">
+        <div class="header__logo">
+            <a ui-sref="home()" class="header__logo-link" scroll-up="" href="">
+                <img class="header__logo-img" src="resources/images/logo.svg" alt="WooCasino">
+            </a>
+        </div>
+        <div class="header__container-bg">
+            <div class="header-auth ng-isolate-scope">
+    <!-- ngIf: !$root.data.user.email --><div class="header-auth__anon ng-scope" ng-if="!$root.data.user.email">
+        <div class="header-auth__anon-status">
+            <img class="header-auth__anon-img" src="/resources/images/status/anon.svg" alt="">
+        </div>
+        <div class="header-auth__anon-btn-wrp">
+            <button class="button button-primary header-auth__reg-btn ng-scope" ng-controller="AuthModal" ng-click="auth_modal.showRegistration()" translate="frontend.links.sign_up">Registration</button>
+            <button class="button button-secondary header-auth__login-btn ng-scope" ng-controller="AuthModal" ng-click="auth_modal.showLogin()" translate="frontend.links.sign_in">Log in</button>
+        </div>
+    </div><!-- end ngIf: !$root.data.user.email -->
+    <!-- ngIf: $root.data.user.email -->
+</div>
+            <!-- ngIf: $root.data.current_ip.country_code !== 'SE' && $root.data.user.country !== 'SE' --><nav class="header-menu ng-scope ng-isolate-scope" type="main-menu" template="main-menu" ng-if="$root.data.current_ip.country_code !== 'SE' &amp;&amp; $root.data.user.country !== 'SE'">
+    <div class="header-menu__live">
+        <a class="header-menu__live-link" ui-sref-active="header-menu__live-link--current" ui-sref="app.games({category: 'blackjack', provider: false, lang: $root.currentLocale})" scroll-up="" href="/games/blackjack">
+            <span class="header-menu__live-icon icon-woo-menu-default icon-woo-blackjack"></span>
+            <span class="header-menu__live-text ng-scope" translate="games.categories.blackjack">Blackjack</span>
+        </a>
+        <a class="header-menu__live-link" ui-sref-active="header-menu__live-link--current" ui-sref="app.games({category: 'roulette-games', provider: false, lang: $root.currentLocale})" scroll-up="" href="/games/roulette-games">
+            <span class="header-menu__live-icon icon-woo-menu-default icon-woo-roulette"></span>
+            <span class="header-menu__live-text ng-scope" translate="games.categories.roulette-games">Roulette</span>
+        </a>
+    </div>
+    <ul class="header-menu__list">
+        <!-- ngRepeat: item in menu --><li class="header-menu__item ng-scope" ng-repeat="item in menu">
+            <a class="header-menu__link header-menu__link--games" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="header-menu__link--current" ui-sref="app.games({category:'',provider:'',lang:'en'})" scroll-up="" href="/games">
+                <i class="header-menu__icon icon-woo-menu-default icon-woo-games"></i>
+                <span class="header-menu__text ng-binding">All Games</span>
+            </a>
+        </li><!-- end ngRepeat: item in menu --><li class="header-menu__item ng-scope" ng-repeat="item in menu">
+            <a class="header-menu__link header-menu__link--live-casino" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="header-menu__link--current" ui-sref="app.games({category:'live-casino',provider:'',lang:'en'})" scroll-up="" href="/games/live-casino">
+                <i class="header-menu__icon icon-woo-menu-default icon-woo-live-casino"></i>
+                <span class="header-menu__text ng-binding">Live casino</span>
+            </a>
+        </li><!-- end ngRepeat: item in menu --><li class="header-menu__item ng-scope" ng-repeat="item in menu">
+            <a class="header-menu__link header-menu__link--promotions" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="header-menu__link--current" ui-sref="app.external({id:'promotions', lang:'en'})" scroll-up="" href="/promotions">
+                <i class="header-menu__icon icon-woo-menu-default icon-woo-promotions"></i>
+                <span class="header-menu__text ng-binding">Promotions</span>
+            </a>
+        </li><!-- end ngRepeat: item in menu --><li class="header-menu__item ng-scope" ng-repeat="item in menu">
+            <a class="header-menu__link header-menu__link--payments" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="header-menu__link--current" ui-sref="app.external({id:'payments', lang:'en'})" scroll-up="" href="/payments">
+                <i class="header-menu__icon icon-woo-menu-default icon-woo-payments"></i>
+                <span class="header-menu__text ng-binding">Payments</span>
+            </a>
+        </li><!-- end ngRepeat: item in menu --><li class="header-menu__item ng-scope" ng-repeat="item in menu">
+            <a class="header-menu__link header-menu__link--vip" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="header-menu__link--current" ui-sref="app.external({id:'vip', lang:'en'})" scroll-up="" href="/vip">
+                <i class="header-menu__icon icon-woo-menu-default icon-woo-vip"></i>
+                <span class="header-menu__text ng-binding">VIP</span>
+            </a>
+        </li><!-- end ngRepeat: item in menu -->
+        <li class="header-menu__category">
+            <div class="header-menu__category-wrp" data-toggle="dropdown">
+                <p class="header-menu__box header-menu__box--tournament">
+                    <i class="header-menu__icon icon-woo-tournaments"></i>
+                    <span class="header-menu__text ng-scope" translate="frontend.tournaments.tournaments">Tournaments</span>
+                </p>
+                <button class="header-menu__category-btn icon-woo-arrow-bold"></button>
+            </div>
+            <ul class="header-menu__sub-category sub-category ng-isolate-scope" type="tournaments-sub-menu" template="sub-category">
+    <li class="sub-category__counter ng-binding">4</li>
+    <!-- ngRepeat: item in menu --><li class="sub-category__item ng-scope" ng-repeat="item in menu">
+        <a class="sub-category__link sub-category__link--daily-sprint" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="sub-category__link--current" ui-sref="app.external({id:'daily-sprint', lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/daily-sprint">
+            <span class="sub-category__icon icon-woo-menu-default icon-woo-daily-sprint"></span>
+            <span class="sub-category__text ng-binding">Daily Slot Race</span>
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="sub-category__item ng-scope" ng-repeat="item in menu">
+        <a class="sub-category__link sub-category__link--regular-lottery" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="sub-category__link--current" ui-sref="app.external({id:'regular-lottery', lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/regular-lottery">
+            <span class="sub-category__icon icon-woo-menu-default icon-woo-regular-lottery"></span>
+            <span class="sub-category__text ng-binding">Regular Lottery</span>
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="sub-category__item ng-scope" ng-repeat="item in menu">
+        <a class="sub-category__link sub-category__link--live-sprint" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="sub-category__link--current" ui-sref="app.external({id:'live-sprint', lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/live-sprint">
+            <span class="sub-category__icon icon-woo-menu-default icon-woo-live-sprint"></span>
+            <span class="sub-category__text ng-binding">Live Race</span>
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="sub-category__item ng-scope" ng-repeat="item in menu">
+        <a class="sub-category__link sub-category__link--the-drops-and-wins-network-promotion" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="sub-category__link--current" ui-sref="app.external({id:'the-drops-and-wins-network-promotion', lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/the-drops-and-wins-network-promotion">
+            <span class="sub-category__icon icon-woo-menu-default icon-woo-the-drops-and-wins-network-promotion"></span>
+            <span class="sub-category__text ng-binding">Drops And Wins</span>
+        </a>
+    </li><!-- end ngRepeat: item in menu -->
+</ul>
+        </li>
+        <li class="header-menu__item">
+            <a class="header-menu__link header-menu__link--loot-wheel ng-scope" ng-controller="CustomLootModal" ng-click="openLootModal()" href="">
+                <i class="header-menu__icon icon-woo-loot-wheel"></i>
+                <span class="header-menu__text ng-scope" translate="frontend.links.wheel_of_fortune">Wheel of Fortune</span>
+            </a>
+        </li>
+        <li class="header-menu__item ng-scope ng-hide" ng-controller="PWACtrl as PWACtrl" ng-show="PWACtrl.PWA.PWAInstallationEnabled">
+            <button class="header-menu__link header-menu__link--pwa" ng-click="PWACtrl.PWA.installPWA()">
+                <i class="header-menu__icon icon-woo-pwa"></i>
+                <span class="header-menu__text ng-scope" translate="frontend.links.pwa">WooCasino app</span>
+            </button>
+        </li>
+    </ul>
+</nav><!-- end ngIf: $root.data.current_ip.country_code !== 'SE' && $root.data.user.country !== 'SE' -->
+            <!-- ngIf: $root.data.current_ip.country_code === 'SE' || $root.data.user.country === 'SE' -->
+        </div>
+    </div>
+</header>
+            <!-- ngIf: $root.data.user.email -->
+            <div class="top-bar">
+                <div class="top-bar__search search-block--btn-left search-block ng-isolate-scope" ng-init="search = ''" ng-class="{'search-block--open' : search.length &amp;&amp; (filters.games | gameTitle: search).length}" name="autocomplete_dropdown" template="autocomplete_dropdown" limit="10">
+    <input class="search-block__input ng-pristine ng-untouched ng-valid ng-empty" title="search" ng-model="search" type="text" placeholder="Find your game">
+    <span class="search-block__btn icon-woo-search" ng-class="{'icon-woo-close': search.length, 'icon-woo-search': !search.length}" ng-click="search = ''"></span>
+    <ul class="search-block__dropdown">
+        <!-- ngRepeat: game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier --><li class="search-block__item ng-scope" ng-repeat="game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier">
+            <a class="search-block__link ng-scope" ng-controller="Game" ng-click="$parent.$parent.search = ''; openGame.modalByCurrency(game, null, null, $index);">
+                <img class="search-block__game-img" ng-src="https://cdn2.softswiss.net/woocasino/i/s3/belatra/ShogunsFortune.webp" alt="game.title" src="https://cdn2.softswiss.net/woocasino/i/s3/belatra/ShogunsFortune.webp">
+                <span class="search-block__text ng-binding">Shogun's Fortune</span>
+            </a>
+        </li><!-- end ngRepeat: game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier --><li class="search-block__item ng-scope" ng-repeat="game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier">
+            <a class="search-block__link ng-scope" ng-controller="Game" ng-click="$parent.$parent.search = ''; openGame.modalByCurrency(game, null, null, $index);">
+                <img class="search-block__game-img" ng-src="https://cdn2.softswiss.net/woocasino/i/s3/belatra/20SuperStars.webp" alt="game.title" src="https://cdn2.softswiss.net/woocasino/i/s3/belatra/20SuperStars.webp">
+                <span class="search-block__text ng-binding">20 Super Stars</span>
+            </a>
+        </li><!-- end ngRepeat: game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier --><li class="search-block__item ng-scope" ng-repeat="game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier">
+            <a class="search-block__link ng-scope" ng-controller="Game" ng-click="$parent.$parent.search = ''; openGame.modalByCurrency(game, null, null, $index);">
+                <img class="search-block__game-img" ng-src="https://cdn2.softswiss.net/woocasino/i/s3/groove/Joker.webp" alt="game.title" src="https://cdn2.softswiss.net/woocasino/i/s3/groove/Joker.webp">
+                <span class="search-block__text ng-binding">It's a Joker</span>
+            </a>
+        </li><!-- end ngRepeat: game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier --><li class="search-block__item ng-scope" ng-repeat="game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier">
+            <a class="search-block__link ng-scope" ng-controller="Game" ng-click="$parent.$parent.search = ''; openGame.modalByCurrency(game, null, null, $index);">
+                <img class="search-block__game-img" ng-src="https://cdn2.softswiss.net/woocasino/i/s3/belatra/88DragonsTreasure.webp" alt="game.title" src="https://cdn2.softswiss.net/woocasino/i/s3/belatra/88DragonsTreasure.webp">
+                <span class="search-block__text ng-binding">88 Dragons Treasure</span>
+            </a>
+        </li><!-- end ngRepeat: game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier --><li class="search-block__item ng-scope" ng-repeat="game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier">
+            <a class="search-block__link ng-scope" ng-controller="Game" ng-click="$parent.$parent.search = ''; openGame.modalByCurrency(game, null, null, $index);">
+                <img class="search-block__game-img" ng-src="https://cdn2.softswiss.net/woocasino/i/s3/groove/BookofAnunnaki.webp" alt="game.title" src="https://cdn2.softswiss.net/woocasino/i/s3/groove/BookofAnunnaki.webp">
+                <span class="search-block__text ng-binding">Book of Anunnaki</span>
+            </a>
+        </li><!-- end ngRepeat: game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier --><li class="search-block__item ng-scope" ng-repeat="game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier">
+            <a class="search-block__link ng-scope" ng-controller="Game" ng-click="$parent.$parent.search = ''; openGame.modalByCurrency(game, null, null, $index);">
+                <img class="search-block__game-img" ng-src="https://cdn2.softswiss.net/woocasino/i/s3/groove/CaiShen689.webp" alt="game.title" src="https://cdn2.softswiss.net/woocasino/i/s3/groove/CaiShen689.webp">
+                <span class="search-block__text ng-binding">Cai Shen 689</span>
+            </a>
+        </li><!-- end ngRepeat: game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier --><li class="search-block__item ng-scope" ng-repeat="game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier">
+            <a class="search-block__link ng-scope" ng-controller="Game" ng-click="$parent.$parent.search = ''; openGame.modalByCurrency(game, null, null, $index);">
+                <img class="search-block__game-img" ng-src="https://cdn2.softswiss.net/woocasino/i/s3/belatra/7DaysAnotherland.webp" alt="game.title" src="https://cdn2.softswiss.net/woocasino/i/s3/belatra/7DaysAnotherland.webp">
+                <span class="search-block__text ng-binding">7 Days Anotherland</span>
+            </a>
+        </li><!-- end ngRepeat: game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier --><li class="search-block__item ng-scope" ng-repeat="game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier">
+            <a class="search-block__link ng-scope" ng-controller="Game" ng-click="$parent.$parent.search = ''; openGame.modalByCurrency(game, null, null, $index);">
+                <img class="search-block__game-img" ng-src="https://cdn2.softswiss.net/woocasino/i/s3/belatra/BookofDoom.webp" alt="game.title" src="https://cdn2.softswiss.net/woocasino/i/s3/belatra/BookofDoom.webp">
+                <span class="search-block__text ng-binding">Book of Doom</span>
+            </a>
+        </li><!-- end ngRepeat: game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier --><li class="search-block__item ng-scope" ng-repeat="game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier">
+            <a class="search-block__link ng-scope" ng-controller="Game" ng-click="$parent.$parent.search = ''; openGame.modalByCurrency(game, null, null, $index);">
+                <img class="search-block__game-img" ng-src="https://cdn2.softswiss.net/woocasino/i/s3/spinomenal/BookoftheDivineReloaded.webp" alt="game.title" src="https://cdn2.softswiss.net/woocasino/i/s3/spinomenal/BookoftheDivineReloaded.webp">
+                <span class="search-block__text ng-binding">Book of the Divine. Reloaded</span>
+            </a>
+        </li><!-- end ngRepeat: game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier --><li class="search-block__item ng-scope" ng-repeat="game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier">
+            <a class="search-block__link ng-scope" ng-controller="Game" ng-click="$parent.$parent.search = ''; openGame.modalByCurrency(game, null, null, $index);">
+                <img class="search-block__game-img" ng-src="https://cdn2.softswiss.net/woocasino/i/s3/tomhorn/EuropeanRouletteAnnouncedBets.webp" alt="game.title" src="https://cdn2.softswiss.net/woocasino/i/s3/tomhorn/EuropeanRouletteAnnouncedBets.webp">
+                <span class="search-block__text ng-binding">European Roulette. Announced Bets</span>
+            </a>
+        </li><!-- end ngRepeat: game in filters.games | gamesWithCurrency: $root.data.user.currency | gameCanPlay | gameTitle: search  | limitTo: limit_count track by game.identifier -->
+        <li class="search-block__more-btn-wrp" ng-show="(filters.games | gameTitle: search).length > limit_count">
+            <a class="button button button-secondary button-small" ng-click="loadMore(10)">
+                <span translate="frontend.links.load_more_games" class="ng-scope">Load More Games</span>
+            </a>
+        </li>
+    </ul>
+    <div class="search-block__escape" ng-click="search = ''"></div>
+</div>
+                <div class="top-bar__content">
+                    <!-- ngIf: $root.data.user.email -->
+                    <!-- ngIf: !$root.data.user.email --><div class="top-bar__anon ng-scope" ng-if="!$root.data.user.email">
+                        <button class="top-bar__sign-up button button-primary button-small ng-scope" translate="frontend.links.sign_up" ng-controller="AuthModal" ng-click="auth_modal.showRegistration()">Registration</button>
+                        <button class="top-bar__sign-in button button-secondary button-small ng-scope" translate="frontend.links.sign_in" ng-controller="AuthModal" ng-click="auth_modal.showLogin()">Log in</button>
+                    </div><!-- end ngIf: !$root.data.user.email -->
+                    <!-- ngIf: $root.data.user.email -->
+                    <div class="top-bar__locale locale-selector--small locale-selector ng-isolate-scope" dropdown="" ng-init="local_names = {
+        'en':'ENG',
+        'en-CA':'CAN',
+        'en-AU':'AUS',
+        'ru':'RUS',
+        'de':'DEU',
+        'sv':'SWE',
+        'nn':'NOR',
+        'fi':'FIN',
+        'tr':'TUR',
+        'pl':'POL',
+        'fr':'FRA',
+        'cn':'CHN',
+        'jp':'JPN',
+        'pt':'PRT',
+        'es':'ESP',
+        'cs':'CZE',
+        'en-NZ': 'NZL',
+        'ja': 'JPN',
+        'it': 'ITA',
+        'hu': 'HUN'
+    }" template="locale-selector">
+    <button class="locale-selector__selector" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">
+        <img class="locale-selector__img" alt="English" ng-src="https://cdn2.softswiss.net/flags/square/en.svg" src="https://cdn2.softswiss.net/flags/square/en.svg">
+        <span class="locale-selector__name ng-binding">ENG</span>
+    </button>
+    <ul role="menu" class="locale-selector__dropdown">
+        <!-- ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/en-AU" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/en-AU.svg" alt="English - Australia" src="https://cdn2.softswiss.net/flags/square/en-AU.svg">
+                <span class="locale-selector__dropdown-name ng-binding">AUS</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/en-CA" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/en-CA.svg" alt="English - Canada" src="https://cdn2.softswiss.net/flags/square/en-CA.svg">
+                <span class="locale-selector__dropdown-name ng-binding">CAN</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/fr-CA" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/fr-CA.svg" alt="Français - Canada" src="https://cdn2.softswiss.net/flags/square/fr-CA.svg">
+                <span class="locale-selector__dropdown-name ng-binding">fr-CA</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/cs" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/cs.svg" alt="Čeština" src="https://cdn2.softswiss.net/flags/square/cs.svg">
+                <span class="locale-selector__dropdown-name ng-binding">CZE</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/ru" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/ru.svg" alt="Русский" src="https://cdn2.softswiss.net/flags/square/ru.svg">
+                <span class="locale-selector__dropdown-name ng-binding">RUS</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/de" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/de.svg" alt="Deutsch" src="https://cdn2.softswiss.net/flags/square/de.svg">
+                <span class="locale-selector__dropdown-name ng-binding">DEU</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/nn" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/nn.svg" alt="Norsk" src="https://cdn2.softswiss.net/flags/square/nn.svg">
+                <span class="locale-selector__dropdown-name ng-binding">NOR</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/it" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/it.svg" alt="Italiano" src="https://cdn2.softswiss.net/flags/square/it.svg">
+                <span class="locale-selector__dropdown-name ng-binding">ITA</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/fi" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/fi.svg" alt="Suomi" src="https://cdn2.softswiss.net/flags/square/fi.svg">
+                <span class="locale-selector__dropdown-name ng-binding">FIN</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/pl" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/pl.svg" alt="Polski" src="https://cdn2.softswiss.net/flags/square/pl.svg">
+                <span class="locale-selector__dropdown-name ng-binding">POL</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/en-NZ" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/en-NZ.svg" alt="English - New Zealand" src="https://cdn2.softswiss.net/flags/square/en-NZ.svg">
+                <span class="locale-selector__dropdown-name ng-binding">NZL</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/ja" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/ja.svg" alt="日本語" src="https://cdn2.softswiss.net/flags/square/ja.svg">
+                <span class="locale-selector__dropdown-name ng-binding">JPN</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/hu" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/hu.svg" alt="Hungarian" src="https://cdn2.softswiss.net/flags/square/hu.svg">
+                <span class="locale-selector__dropdown-name ng-binding">HUN</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales -->
+    </ul>
+</div>
+                </div>
+            </div>
+
+            <!-- ngIf: ['home'].includes(state.current.page_name) -->
+            <!-- ngIf: (['games', 'games-category'].includes(state.current.page_name) &&  !$root.customParam.isLiveGategory) || state.params.path === 'favorite-games' -->
+
+            <main class="carcass__body">
+                <div class="main-content">
+                    <div class="contain">
+                        <!-- ngIf: (!$root.customParam.isLiveGategory && ['home', 'games_category', 'games'].includes(state.current.page_name)) || state.params.path === 'favorite-games' -->
+                    </div>
+                </div>
+                <!-- uiView: --><div ui-view="" autoscroll="false" class="ng-scope"><div class="not-found-page contain ng-scope">
+    <div class="not-found-page__wrap">
+        <div class="not-found-page__content">
+            <img src="/resources/images/pages/404/404.png" alt="">
+            <p class="not-found-page__text ng-binding">Oops, The page you are looking for cannot be found. It may have been removed, had its name changed, or is temporarily unavailable. Casino Team is really sorry we couldn't provide you with what you were searching for, but we promise to try our best to help you.</p>
+            <a ui-sref="home()" href="" class="button button-primary button-medium not-found-page__btn ng-scope" translate="frontend.links.home">Home</a>
+        </div>
+    </div>
+</div>
+
+</div>
+            </main>
+            <footer class="footer">
+    <div class="contain">
+        <div class="footer__promo">
+            <div class="bx-wrapper" style="max-width: 4305px;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 30px;"><ul class="promo-slider" data-uix-bxslider="mode: 'horizontal',
+                                   pager: false,
+                                   controls: false,
+                                   minSlides: 1,
+                                   maxSlides: 40,
+                                   slideWidth: 145,
+                                   infiniteLoop: false,
+                                   adaptiveHeight: true,
+                                   moveSlides: 1,
+                                   auto: true,
+                                   slideMargin: 15" style="width: 27215%; position: relative; transition-duration: 0s; transform: translate3d(-40px, 0px, 0px);">
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                 <span class="promo-slider__link">
+                     <img class="promo-slider__img promo-slider__img--small" ng-src="https://cdn2.softswiss.net/woocasino/logos/payments/color/visa.svg" alt="Visa" src="https://cdn2.softswiss.net/woocasino/logos/payments/color/visa.svg">
+                 </span>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <span class="promo-slider__link promo-slider__link--white">
+                        <img class="promo-slider__img" ng-src="https://cdn2.softswiss.net/woocasino/logos/payments/white/mastercard.svg" alt="Mastercard" src="https://cdn2.softswiss.net/woocasino/logos/payments/white/mastercard.svg">
+                    </span>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <span class="promo-slider__link">
+                        <img class="promo-slider__img" ng-src="https://cdn2.softswiss.net/woocasino/logos/payments/color/maestro.svg" alt="Maestro" src="https://cdn2.softswiss.net/woocasino/logos/payments/color/maestro.svg">
+                    </span>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <span class="promo-slider__link">
+                        <img class="promo-slider__img promo-slider__img--small" ng-src="https://cdn2.softswiss.net/woocasino/logos/payments/color/skrill.svg" alt="Skrill" src="https://cdn2.softswiss.net/woocasino/logos/payments/color/skrill.svg">
+                    </span>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <span class="promo-slider__link">
+                        <img class="promo-slider__img promo-slider__img--small" ng-src="https://cdn2.softswiss.net/woocasino/logos/payments/color/neteller.svg" alt="Neteller" src="https://cdn2.softswiss.net/woocasino/logos/payments/color/neteller.svg">
+                    </span>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <span class="promo-slider__link">
+                        <img class="promo-slider__img" ng-src="https://cdn2.softswiss.net/woocasino/logos/payments/color/paysafecard.svg" alt="" src="https://cdn2.softswiss.net/woocasino/logos/payments/color/paysafecard.svg">
+                    </span>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <span class="promo-slider__link promo-slider__link--white">
+                        <img class="promo-slider__img" ng-src="https://cdn2.softswiss.net/woocasino/logos/payments/white/zimpler.svg" alt="Zimpler" src="https://cdn2.softswiss.net/woocasino/logos/payments/white/zimpler.svg">
+                    </span>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <span class="promo-slider__link">
+                        <img class="promo-slider__img" ng-src="https://cdn2.softswiss.net/woocasino/logos/payments/color/idebit.svg" alt="idebit" src="https://cdn2.softswiss.net/woocasino/logos/payments/color/idebit.svg">
+                    </span>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <span class="promo-slider__link promo-slider__link--small">
+                        <img class="promo-slider__img promo-slider__img--small" ng-src="https://cdn2.softswiss.net/woocasino/logos/payments/color/instadebit.svg" alt="Instadebit" src="https://cdn2.softswiss.net/woocasino/logos/payments/color/instadebit.svg">
+                    </span>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <span class="promo-slider__link">
+                        <img class="promo-slider__img" ng-src="https://cdn2.softswiss.net/woocasino/logos/payments/color/interac.svg" alt="Interac" src="https://cdn2.softswiss.net/woocasino/logos/payments/color/interac.svg">
+                    </span>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <span class="promo-slider__link">
+                        <img class="promo-slider__img" ng-src="https://cdn2.softswiss.net/woocasino/logos/payments/color/etransfer.svg" alt="Etransfer" src="https://cdn2.softswiss.net/woocasino/logos/payments/color/etransfer.svg">
+                    </span>
+                </li>
+                <!--providers-->
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a class="promo-slider__link" href="http://softswiss.com" target="_blank" rel="nofollow noopener">
+                        <img class="promo-slider__img" src="/resources/images/license-icon/softswiss_casino.svg" alt="SoftSwiss">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'betsoft'})" class="promo-slider__link" href="/games/all/betsoft">
+                        <img class="promo-slider__img" alt="Betsoft Slot Game Software" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/betsoft.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/betsoft.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'endorphina'})" class="promo-slider__link" href="/games/all/endorphina">
+                        <img class="promo-slider__img" alt="Play endorphina casino slots" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/endorphina_w.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/endorphina_w.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="true" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'netent'})" class="promo-slider__link" href="/games/all/netent">
+                        <img class="promo-slider__img" alt="Netent table games" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/netent.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/netent.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'evolution'})" class="promo-slider__link" href="/games/all/evolution">
+                        <img class="promo-slider__img" alt="Evolution gaming online slots" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/evolution_w.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/evolution_w.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'nextgen'})" class="promo-slider__link" href="/games/all/nextgen">
+                        <img class="promo-slider__img" alt="nextgen slots play online" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/nextgen_w.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/nextgen_w.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'playngo'})" class="promo-slider__link" href="/games/all/playngo">
+                        <img class="promo-slider__img" alt="Playngo" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/playngo.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/playngo.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'pragmaticplay'})" class="promo-slider__link" href="/games/all/pragmaticplay">
+                        <img class="promo-slider__img" alt="Pragmatic play games list" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/pragmatic_w.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/pragmatic_w.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'quickspin'})" class="promo-slider__link" href="/games/all/quickspin">
+                        <img class="promo-slider__img" alt="QuickSpin casino slots" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/quickspin.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/quickspin.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'yggdrasil'})" class="promo-slider__link" href="/games/all/yggdrasil">
+                        <img class="promo-slider__img" alt="Yggdrasil i-Gaming software" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/yggdrasil_w.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/yggdrasil_w.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'wms'})" class="promo-slider__link" href="/games/all/wms">
+                        <img class="promo-slider__img promo-slider__img--small" alt="play WSM slot games" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/wms.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/wms.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'barcrest'})" class="promo-slider__link" href="/games/all/barcrest">
+                        <img class="promo-slider__img" alt="most popular Barcrest slots" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/barcrest.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/barcrest.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'red7'})" class="promo-slider__link" href="/games/all/red7">
+                        <img class="promo-slider__img" alt="Red7 casino slots 2021" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/red7.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/red7.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'scientific'})" class="promo-slider__link" href="/games/all/scientific">
+                        <img class="promo-slider__img" alt="SC games casino slots" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/scientific.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/scientific.svg">
+                    </a>
+                </li>
+                <li class="promo-slider__item" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'bally'})" class="promo-slider__link" href="/games/all/bally">
+                        <img class="promo-slider__img" alt="Bally gaming casino" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/bally.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/bally.svg">
+                    </a>
+                </li>
+                <!-- ngRepeat: block in [1] --><li class="promo-slider__item ng-scope" ng-repeat="block in [1]" data-notify-when-repeat-finished="" aria-hidden="false" style="float: left; list-style: none; position: relative; width: 145px; margin-right: 15px;">
+                    <a scroll-up="" ui-sref="app.games({category: 'all', lang: $root.currentLocale, provider: 'wazdan'})" class="promo-slider__link" href="/games/all/wazdan">
+                        <img class="promo-slider__img promo-slider__img--small" alt="Wazdan slot machine" ng-src="https://cdn2.softswiss.net/woocasino/logos/providers/color/wazdan_w.svg" src="https://cdn2.softswiss.net/woocasino/logos/providers/color/wazdan_w.svg">
+                    </a>
+                </li><!-- end ngRepeat: block in [1] -->
+                <!-- Attention! The last element of the list is required with the attribute ng-repeat="block in [1]" & data-notify-when-repeat-finished -->
+            </ul></div></div>
+        </div>
+        <!-- ngIf: $root.data.current_ip.country_code !== 'SE' && $root.data.user.country !== 'SE' --><ul class="footer-menu ng-scope ng-isolate-scope" ng-if="$root.data.current_ip.country_code !== 'SE' &amp;&amp; $root.data.user.country !== 'SE'" type="bottom-menu" template="footer-menu">
+    <!-- ngRepeat: item in menu --><li class="footer-menu__item ng-scope" ng-repeat="item in menu">
+        <a class="footer-menu__link ng-binding" ng-class="{'footer-menu__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="footer-menu__link--current" ui-sref="app.games({category:'',provider:'',lang:'en'})" scroll-up="" href="/games">
+            All Games
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="footer-menu__item ng-scope" ng-repeat="item in menu">
+        <a class="footer-menu__link ng-binding" ng-class="{'footer-menu__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="footer-menu__link--current" ui-sref="app.external({id:'payments', lang:'en'})" scroll-up="" href="/payments">
+            Payments
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="footer-menu__item ng-scope" ng-repeat="item in menu">
+        <a class="footer-menu__link ng-binding" ng-class="{'footer-menu__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="footer-menu__link--current" ui-sref="app.external({id:'faq', lang:'en'})" scroll-up="" href="/faq">
+            Faq
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="footer-menu__item ng-scope" ng-repeat="item in menu">
+        <a class="footer-menu__link ng-binding" ng-class="{'footer-menu__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="footer-menu__link--current" ui-sref="app.external({id:'terms-and-conditions', lang:'en'})" scroll-up="" href="/terms-and-conditions">
+            Terms and Conditions
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="footer-menu__item ng-scope" ng-repeat="item in menu">
+        <a class="footer-menu__link ng-binding" ng-class="{'footer-menu__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="footer-menu__link--current" ui-sref="app.external({id:'bonus-terms', lang:'en'})" scroll-up="" href="/bonus-terms">
+            Bonus Terms
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="footer-menu__item ng-scope" ng-repeat="item in menu">
+        <a class="footer-menu__link ng-binding" ng-class="{'footer-menu__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="footer-menu__link--current" ui-sref="app.external({id:'privacy-policy', lang:'en'})" scroll-up="" href="/privacy-policy">
+            Privacy Policy
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="footer-menu__item ng-scope" ng-repeat="item in menu">
+        <a class="footer-menu__link ng-binding" ng-class="{'footer-menu__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="footer-menu__link--current" ui-sref="app.external({id:'responsible-gambling', lang:'en'})" scroll-up="" href="/responsible-gambling">
+            Responsible Gambling
+        </a>
+    </li><!-- end ngRepeat: item in menu -->
+    <li class="footer-menu__item">
+        <a class="footer-menu__link ng-scope ng-binding" href="https://playamopartners.com" target="_blank" rel="nofollow noopener" translate="frontend.captions.affiliates">Affiliates</a>
+    </li>
+</ul><!-- end ngIf: $root.data.current_ip.country_code !== 'SE' && $root.data.user.country !== 'SE' -->
+        <!-- ngIf: $root.data.current_ip.country_code === 'SE' || $root.data.user.country === 'SE' -->
+        <div class="footer__license">
+            <div ng-bind-html="content" type="footer-license" class="ng-binding ng-isolate-scope ng-scope"><div class="license-block">
+    <external-antillephone class="ng-isolate-scope"><!-- ngIf: $ctrl.AntillephoneService.data.id && $ctrl.AntillephoneService.available --><div id="apg-seal-container" ng-if="$ctrl.AntillephoneService.data.id &amp;&amp; $ctrl.AntillephoneService.available" data-apg-seal-id="50b0199b-7dfa-4af5-a970-0f74259576e2" data-apg-image-size="128" data-apg-image-type="basic-small" class="ng-scope"><div style="display: block;position: relative;overflow: hidden;max-width: 128px;min-width: 32px; background-image: url(https://50b0199b-7dfa-4af5-a970-0f74259576e2.snippet.antillephone.com/54f396e0-b046-49b1-9cb3-0c69281d7ea9-beacon.png);"><a target="_blank" rel="nonoopener" href="https://validator.antillephone.com/validate?domain=www.woocasino2.com&amp;seal_id=0fc29e85f4e2acaf3eba55efff1493e14dcdbe8d500be1b12cc424587062ef2ee684940fa5389fce6a26b98f9144c0e2&amp;stamp=b12770d15b70cde63f3c5e30ec0a5d8e"><img alt="" style="width: 100%; height: auto" src="https://50b0199b-7dfa-4af5-a970-0f74259576e2.snippet.antillephone.com/sealassets/b12770d15b70cde63f3c5e30ec0a5d8e-www.woocasino2.com-0fc29e85f4e2acaf3eba55efff1493e14dcdbe8d500be1b12cc424587062ef2ee684940fa5389fce6a26b98f9144c0e2-c2VhbC5wbmc%3D?status=valid"></a></div></div><!-- end ngIf: $ctrl.AntillephoneService.data.id && $ctrl.AntillephoneService.available -->
+</external-antillephone>
+    <p class="license-block__text">Copyright © 2021 Woocasino.com is owned and operated by Dama N.V., a company registered and established under the laws of Curaçao, with registration number 152125 and registered address at Julianaplein 36, Willemstad, Curaçao, and its wholly-owned subsidiary, Friolion Limited, registered in Cyprus with registration number HE 419102 and registered address Pavlov Nirvana &amp; Aipeias, 4, ALPHA TOWER, Floor 1, Flat 11, 3021, Limassol, Cyprus. Dama N.V. is licensed and regulated by Antillephone N.V. (license no. 8048/JAZ2020-013). 
+      All payments with Paysafe are made via Dama N.V. 
+      It is the player’s sole responsibility to inquire about the existing laws and regulations of the given jurisdiction for online gambling.
+
+</p>
+</div></div>
+            <div class="footer__icons">
+                <span class="footer__icon">
+                    <img class="footer__icon-img footer__icon-img--rg" src="/resources/images/license-icon/responsiblegaming.svg" alt="Responsible gaming">
+                </span>
+                <span class="footer__icon">
+                    <img class="footer__icon-img" src="/resources/images/license-icon/safe-secure.png" alt="Safe secure">
+                </span>
+                <span class="footer__icon">
+                    <img class="footer__icon-img" src="/resources/images/license-icon/18plus.png" alt="18 plus">
+                </span>
+            </div>
+        </div>
+    </div>
+</footer>
+        </div>
+        <!-- ngIf: $root.data.device == 'mobile' && ($root.data.current_ip.country_code !== 'SE' && $root.data.user.country !== 'SE') -->
+        <!-- ngInclude: '/app/Layout/MobileMenu/_mobile_menu.html' --><div class="mobile-menu ng-scope" ng-init="$root.customParam.mobMenu = false" ng-include="'/app/Layout/MobileMenu/_mobile_menu.html'"><div class="mobile-menu__wrap ng-scope">
+    <div class="header-auth ng-isolate-scope">
+    <!-- ngIf: !$root.data.user.email --><div class="header-auth__anon ng-scope" ng-if="!$root.data.user.email">
+        <div class="header-auth__anon-status">
+            <img class="header-auth__anon-img" src="/resources/images/status/anon.svg" alt="">
+        </div>
+        <div class="header-auth__anon-btn-wrp">
+            <button class="button button-primary header-auth__reg-btn ng-scope" ng-controller="AuthModal" ng-click="auth_modal.showRegistration()" translate="frontend.links.sign_up">Registration</button>
+            <button class="button button-secondary header-auth__login-btn ng-scope" ng-controller="AuthModal" ng-click="auth_modal.showLogin()" translate="frontend.links.sign_in">Log in</button>
+        </div>
+    </div><!-- end ngIf: !$root.data.user.email -->
+    <!-- ngIf: $root.data.user.email -->
+</div>
+    <div class="mobile-menu__nav">
+        <!-- ngIf: $root.data.current_ip.country_code !== 'SE' && $root.data.user.country !== 'SE' --><nav class="mobile-menu__nav-menu header-menu ng-scope ng-isolate-scope" type="mob-menu" ng-if="$root.data.current_ip.country_code !== 'SE' &amp;&amp; $root.data.user.country !== 'SE'">
+    <ul class="header-menu__list">
+        <li class="header-menu__item">
+            <!-- ngIf: $root.data.user.email -->
+        </li>
+        <!-- ngRepeat: item in menu --><li class="header-menu__item ng-scope" ng-repeat="item in menu">
+            <a class="header-menu__link header-menu__link--games" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="header-menu__link--current" ui-sref="app.games({category:'',provider:'',lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/games">
+                <i class="header-menu__icon icon-woo-menu-default icon-woo-games"></i>
+                <span class="header-menu__text ng-binding">All Games</span>
+            </a>
+        </li><!-- end ngRepeat: item in menu --><li class="header-menu__item ng-scope" ng-repeat="item in menu">
+            <a class="header-menu__link header-menu__link--live-casino" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="header-menu__link--current" ui-sref="app.games({category:'live-casino',provider:'',lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/games/live-casino">
+                <i class="header-menu__icon icon-woo-menu-default icon-woo-live-casino"></i>
+                <span class="header-menu__text ng-binding">Live casino</span>
+            </a>
+        </li><!-- end ngRepeat: item in menu --><li class="header-menu__item ng-scope" ng-repeat="item in menu">
+            <a class="header-menu__link header-menu__link--promotions" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="header-menu__link--current" ui-sref="app.external({id:'promotions', lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/promotions">
+                <i class="header-menu__icon icon-woo-menu-default icon-woo-promotions"></i>
+                <span class="header-menu__text ng-binding">Promotions</span>
+            </a>
+        </li><!-- end ngRepeat: item in menu --><li class="header-menu__item ng-scope" ng-repeat="item in menu">
+            <a class="header-menu__link header-menu__link--payments" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="header-menu__link--current" ui-sref="app.external({id:'payments', lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/payments">
+                <i class="header-menu__icon icon-woo-menu-default icon-woo-payments"></i>
+                <span class="header-menu__text ng-binding">Payments</span>
+            </a>
+        </li><!-- end ngRepeat: item in menu --><li class="header-menu__item ng-scope" ng-repeat="item in menu">
+            <a class="header-menu__link header-menu__link--vip" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="header-menu__link--current" ui-sref="app.external({id:'vip', lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/vip">
+                <i class="header-menu__icon icon-woo-menu-default icon-woo-vip"></i>
+                <span class="header-menu__text ng-binding">VIP</span>
+            </a>
+        </li><!-- end ngRepeat: item in menu -->
+        <li class="header-menu__category">
+            <div class="header-menu__category-wrp" data-toggle="dropdown">
+                <p class="header-menu__box header-menu__box--tournament">
+                    <i class="header-menu__icon icon-woo-tournaments"></i>
+                    <span class="header-menu__text ng-scope" translate="frontend.tournaments.tournaments">Tournaments</span>
+                </p>
+                <button class="header-menu__category-btn icon-woo-arrow-bold"></button>
+            </div>
+            <ul class="header-menu__sub-category sub-category ng-isolate-scope" type="tournaments-sub-menu" template="sub-category">
+    <li class="sub-category__counter ng-binding">4</li>
+    <!-- ngRepeat: item in menu --><li class="sub-category__item ng-scope" ng-repeat="item in menu">
+        <a class="sub-category__link sub-category__link--daily-sprint" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="sub-category__link--current" ui-sref="app.external({id:'daily-sprint', lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/daily-sprint">
+            <span class="sub-category__icon icon-woo-menu-default icon-woo-daily-sprint"></span>
+            <span class="sub-category__text ng-binding">Daily Slot Race</span>
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="sub-category__item ng-scope" ng-repeat="item in menu">
+        <a class="sub-category__link sub-category__link--regular-lottery" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="sub-category__link--current" ui-sref="app.external({id:'regular-lottery', lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/regular-lottery">
+            <span class="sub-category__icon icon-woo-menu-default icon-woo-regular-lottery"></span>
+            <span class="sub-category__text ng-binding">Regular Lottery</span>
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="sub-category__item ng-scope" ng-repeat="item in menu">
+        <a class="sub-category__link sub-category__link--live-sprint" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="sub-category__link--current" ui-sref="app.external({id:'live-sprint', lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/live-sprint">
+            <span class="sub-category__icon icon-woo-menu-default icon-woo-live-sprint"></span>
+            <span class="sub-category__text ng-binding">Live Race</span>
+        </a>
+    </li><!-- end ngRepeat: item in menu --><li class="sub-category__item ng-scope" ng-repeat="item in menu">
+        <a class="sub-category__link sub-category__link--the-drops-and-wins-network-promotion" ng-class="{'sub-category__link--current': state.includes('app.cms', {path: item.path})}" ui-sref-active="sub-category__link--current" ui-sref="app.external({id:'the-drops-and-wins-network-promotion', lang:'en'})" ng-click="$root.customParam.mobMenu = false" scroll-up="" href="/the-drops-and-wins-network-promotion">
+            <span class="sub-category__icon icon-woo-menu-default icon-woo-the-drops-and-wins-network-promotion"></span>
+            <span class="sub-category__text ng-binding">Drops And Wins</span>
+        </a>
+    </li><!-- end ngRepeat: item in menu -->
+</ul>
+        </li>
+        <li class="header-menu__item">
+            <a class="header-menu__link header-menu__link--loot-wheel ng-scope" ng-controller="CustomLootModal" ng-click="openLootModal()" href="">
+                <i class="header-menu__icon icon-woo-loot-wheel"></i>
+                <span class="header-menu__text ng-scope" translate="frontend.links.wheel_of_fortune">Wheel of Fortune</span>
+            </a>
+        </li>
+        <li class="header-menu__item ng-scope ng-hide" ng-controller="PWACtrl as PWACtrl" ng-show="PWACtrl.PWA.PWAInstallationEnabled">
+            <button class="header-menu__link header-menu__link--pwa" ng-click="PWACtrl.PWA.installPWA()">
+                <i class="header-menu__icon icon-woo-pwa"></i>
+                <span class="header-menu__text ng-scope" translate="frontend.links.pwa">WooCasino app</span>
+            </button>
+        </li>
+    </ul>
+</nav><!-- end ngIf: $root.data.current_ip.country_code !== 'SE' && $root.data.user.country !== 'SE' -->
+        <!-- ngIf: $root.data.current_ip.country_code === 'SE' || $root.data.user.country === 'SE' -->
+        <div class="mobile-menu__nav-btn">
+            <button class="mobile-menu__live-btn" type="button" onclick="LC_API.open_chat_window();return false;">
+                <i class="mobile-menu__live-icon icon-woo-live-chat"></i>
+                <span class="mobile-menu__live-text ng-scope" translate="frontend.links.online_chat">Live Chat</span>
+            </button>
+            <div class="mobile-menu__locale locale-selector ng-isolate-scope" dropdown="" ng-init="local_names = {
+        'en':'ENG',
+        'en-CA':'CAN',
+        'en-AU':'AUS',
+        'ru':'RUS',
+        'de':'DEU',
+        'sv':'SWE',
+        'nn':'NOR',
+        'fi':'FIN',
+        'tr':'TUR',
+        'pl':'POL',
+        'fr':'FRA',
+        'cn':'CHN',
+        'jp':'JPN',
+        'pt':'PRT',
+        'es':'ESP',
+        'cs':'CZE',
+        'en-NZ': 'NZL',
+        'ja': 'JPN',
+        'it': 'ITA',
+        'hu': 'HUN'
+    }" template="locale-selector">
+    <button class="locale-selector__selector" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">
+        <img class="locale-selector__img" alt="English" ng-src="https://cdn2.softswiss.net/flags/square/en.svg" src="https://cdn2.softswiss.net/flags/square/en.svg">
+        <span class="locale-selector__name ng-binding">ENG</span>
+    </button>
+    <ul role="menu" class="locale-selector__dropdown">
+        <!-- ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/en-AU" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/en-AU.svg" alt="English - Australia" src="https://cdn2.softswiss.net/flags/square/en-AU.svg">
+                <span class="locale-selector__dropdown-name ng-binding">AUS</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/en-CA" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/en-CA.svg" alt="English - Canada" src="https://cdn2.softswiss.net/flags/square/en-CA.svg">
+                <span class="locale-selector__dropdown-name ng-binding">CAN</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/fr-CA" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/fr-CA.svg" alt="Français - Canada" src="https://cdn2.softswiss.net/flags/square/fr-CA.svg">
+                <span class="locale-selector__dropdown-name ng-binding">fr-CA</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/cs" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/cs.svg" alt="Čeština" src="https://cdn2.softswiss.net/flags/square/cs.svg">
+                <span class="locale-selector__dropdown-name ng-binding">CZE</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/ru" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/ru.svg" alt="Русский" src="https://cdn2.softswiss.net/flags/square/ru.svg">
+                <span class="locale-selector__dropdown-name ng-binding">RUS</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/de" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/de.svg" alt="Deutsch" src="https://cdn2.softswiss.net/flags/square/de.svg">
+                <span class="locale-selector__dropdown-name ng-binding">DEU</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/nn" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/nn.svg" alt="Norsk" src="https://cdn2.softswiss.net/flags/square/nn.svg">
+                <span class="locale-selector__dropdown-name ng-binding">NOR</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/it" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/it.svg" alt="Italiano" src="https://cdn2.softswiss.net/flags/square/it.svg">
+                <span class="locale-selector__dropdown-name ng-binding">ITA</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/fi" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/fi.svg" alt="Suomi" src="https://cdn2.softswiss.net/flags/square/fi.svg">
+                <span class="locale-selector__dropdown-name ng-binding">FIN</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/pl" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/pl.svg" alt="Polski" src="https://cdn2.softswiss.net/flags/square/pl.svg">
+                <span class="locale-selector__dropdown-name ng-binding">POL</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/en-NZ" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/en-NZ.svg" alt="English - New Zealand" src="https://cdn2.softswiss.net/flags/square/en-NZ.svg">
+                <span class="locale-selector__dropdown-name ng-binding">NZL</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/ja" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/ja.svg" alt="日本語" src="https://cdn2.softswiss.net/flags/square/ja.svg">
+                <span class="locale-selector__dropdown-name ng-binding">JPN</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales --><!-- ngIf: num != localeIndex --><li class="locale-selector__item ng-scope" ng-repeat="(num, value) in locales" ng-if="num != localeIndex">
+            <a class="locale-selector__link" href="/hu" ng-click="$event.preventDefault(); changeLocale(value.code);">
+                <img class="locale-selector__img" ng-src="https://cdn2.softswiss.net/flags/square/hu.svg" alt="Hungarian" src="https://cdn2.softswiss.net/flags/square/hu.svg">
+                <span class="locale-selector__dropdown-name ng-binding">HUN</span>
+            </a>
+        </li><!-- end ngIf: num != localeIndex --><!-- end ngRepeat: (num, value) in locales -->
+    </ul>
+</div>
+        </div>
+    </div>
+</div>
+<div class="mobile-menu__escape ng-scope" ng-click="$root.customParam.mobMenu = false"></div>
+</div>
+    
+
+<div class="cookies-policy ng-scope" ng-controller="CookiesPolicyCtrl" style="top: 69px; margin-top: -59px; visibility: visible;">
+    <div class="cookies-policy__wrap" ng-show="!$messageTemplate">
+        <p class="cookies-policy__txt ng-binding">
+            
+            <span translate="frontend.cookies_policy.message" class="ng-scope">We use cookies to improve your experience. By using our website you are accepting our</span>
+            <a ng-show="privacyPolicyPageExists" href="/privacy-policy" scroll-up="" class="links-white-line ng-binding">Cookie Policy</a>
+            <span ng-hide="privacyPolicyPageExists" class="ng-binding ng-hide">Cookie Policy</span>
+            <!-- ngIf: shouldShowAccessByCountryMessage -->
+        </p>
+        <button class="button button-secondary button-small cookies-policy__btn ng-scope" id="ok_cookie_button" ng-click="setAcceptedPolicyCookie(); $close()" translate="frontend.links.ok">OK</button>
+    </div>
+</div><img src="https://tags.feedad.com/1/usersyncs?b=8461718b-151b-486e-8ea2-a9b349f07f98&amp;u=89d46f76-16d3-45b5-97ba-1e291b676532" width="1" height="1" alt="" style="left: -999px; top: -999px; position: absolute;"><img src="https://api.feedad.com/1.1/web/usersyncs?b=8461718b-151b-486e-8ea2-a9b349f07f98&amp;u=89d46f76-16d3-45b5-97ba-1e291b676532" width="1" height="1" alt="" style="left: -999px; top: -999px; position: absolute;"><div style="display: none; visibility: hidden;">
+
+<div style="display:none">
+
+
+<img src="https://ctrack.trafficjunky.net/ctrack?action=list&amp;type=add&amp;id=notregistered&amp;context=woocasino.com&amp;cookiename=notregistered&amp;maxcookiecount=10&amp;age=259200">
+
+
+<img width="1" height="1" src="https://main.exosrv.com/tag.php?goal=aa9159a42bec4dee6ac94f221e185925">
+<img width="1" height="1" src="https://main.exdynsrv.com/tag.php?goal=aa9159a42bec4dee6ac94f221e185925">
+<img width="1" height="1" src="https://main.exoclick.com/tag.php?goal=aa9159a42bec4dee6ac94f221e185925">
+<img width="1" height="1" src="https://main.realsrv.com/tag.php?goal=aa9159a42bec4dee6ac94f221e185925">  
+
+
+
+
+<noscript></noscript>
+
+<img src="https://tsyndicate.com/api/v1/retargeting/set/b711ad56-f347-4ab9-b24d-dd95ed79d3d7" height="1" width="1" style="display:none">  
+  
+</div>
+
+  </div>
+
+<noscript>
+ <img height="1" width="1" src="https://www.facebook.com/tr?id=2956620731073104&amp;ev=PageView
+&amp;noscript=1">
+</noscript>
+
+
+<noscript>
+ <img height="1" width="1" src="https://www.facebook.com/tr?id=4565082360183930&amp;ev=PageView&amp;noscript=1">
+</noscript>
+
+<img alt="" src="https://r.remarketingpixel.com/px.gif?akey=304679503adacbaf03b7208bfcca38bb" style="position: absolute; left: -10000px; display:none"><div id="chat-widget-container" style="opacity: 1; visibility: visible; z-index: 2147483639; position: fixed; bottom: 0px; width: 84px; height: 84px; max-width: 100%; max-height: calc(100% - 0px); min-height: 0px; min-width: 0px; background-color: transparent; border: 0px; overflow: hidden; right: 0px; transition: none 0s ease 0s !important;"><iframe allow="autoplay;" src="https://secure.livechatinc.com/customer/action/open_chat?license_id=9054575&amp;group=12&amp;embedded=1&amp;widget_version=3&amp;unique_groups=1" allowtransparency="true" id="chat-widget" name="chat-widget" title="LiveChat chat widget" scrolling="no" style="width: 100%; height: 100%; min-height: 0px; min-width: 0px; margin: 0px; padding: 0px; background-image: none; background-position: 0% 0%; background-size: initial; background-attachment: scroll; background-origin: initial; background-clip: initial; background-color: rgba(0, 0, 0, 0); border-width: 0px; float: none; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; transition: none 0s ease 0s !important;"></iframe></div><img style="position: absolute; width: 1px; height: 1px; left: 0px; bottom: 0px; opacity: 0;" src="https://my.rtmark.net/img.gif?f=sync&amp;partner=802ad6c4d37ade55e4c86f495fe6c314e2f9c1ebcf1c11c5402db6a1a75052a4&amp;ttl=&amp;rurl=https%3A%2F%2Fwww.woocasino2.com%2Findex.html"></body></html>

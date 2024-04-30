@@ -1,0 +1,7505 @@
+{
+	"setting": {
+		"group": [
+			{
+				"element": [
+					{
+						"_type_id": "1",
+						"_awake": "0",
+						"_path": "Path001_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "2",
+						"_path": "Path001_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "4",
+						"_path": "Path001_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "6",
+						"_path": "Path001_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "8",
+						"_path": "Path001_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "90",
+						"_path": "Path002_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "92",
+						"_path": "Path002_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "94",
+						"_path": "Path002_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "96",
+						"_path": "Path002_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "98",
+						"_path": "Path002_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "150",
+						"_path": "Path001_10",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "152",
+						"_path": "Path001_10",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "154",
+						"_path": "Path001_10",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "156",
+						"_path": "Path001_10",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "158",
+						"_path": "Path001_10",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "208",
+						"_path": "Path001_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "210",
+						"_path": "Path001_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "212",
+						"_path": "Path001_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "214",
+						"_path": "Path001_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "216",
+						"_path": "Path001_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "280",
+						"_path": "Path001_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "282",
+						"_path": "Path001_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "284",
+						"_path": "Path001_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "286",
+						"_path": "Path001_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "288",
+						"_path": "Path001_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "310",
+						"_path": "Path001_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "310",
+						"_path": "Path002_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "312",
+						"_path": "Path001_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "312",
+						"_path": "Path002_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "314",
+						"_path": "Path001_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "314",
+						"_path": "Path002_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "316",
+						"_path": "Path001_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "316",
+						"_path": "Path002_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "318",
+						"_path": "Path001_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "318",
+						"_path": "Path002_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "350",
+						"_path": "Path002_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "352",
+						"_path": "Path002_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "354",
+						"_path": "Path002_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "356",
+						"_path": "Path002_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "358",
+						"_path": "Path002_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "3",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "4.5",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "6",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "7.5",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "9",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "20",
+						"_path": "Path021_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "22",
+						"_path": "Path021_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "24",
+						"_path": "Path021_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "26",
+						"_path": "Path021_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "28",
+						"_path": "Path021_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "60",
+						"_path": "Path021_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "61.5",
+						"_path": "Path021_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "63",
+						"_path": "Path021_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "64.5",
+						"_path": "Path021_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "66",
+						"_path": "Path021_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "78",
+						"_path": "Path022_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "80",
+						"_path": "Path022_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "82",
+						"_path": "Path022_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "84",
+						"_path": "Path022_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "86",
+						"_path": "Path022_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "88",
+						"_path": "Path022_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "126",
+						"_path": "Path022_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "128",
+						"_path": "Path022_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "130",
+						"_path": "Path022_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "132",
+						"_path": "Path022_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "134",
+						"_path": "Path022_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "136",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "138",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "140",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "142",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "144",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "208",
+						"_path": "Path021_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "210",
+						"_path": "Path021_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "212",
+						"_path": "Path021_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "214",
+						"_path": "Path021_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "216",
+						"_path": "Path021_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "250",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "252",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "254",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "256",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "258",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "310",
+						"_path": "Path022_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "310",
+						"_path": "Path028_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "312",
+						"_path": "Path022_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "312",
+						"_path": "Path028_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "314",
+						"_path": "Path022_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "314",
+						"_path": "Path028_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "316",
+						"_path": "Path022_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "316",
+						"_path": "Path028_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "318",
+						"_path": "Path022_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "318",
+						"_path": "Path028_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "350",
+						"_path": "Path021_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "352",
+						"_path": "Path021_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "354",
+						"_path": "Path021_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "354",
+						"_path": "Path024_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "356",
+						"_path": "Path021_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "356",
+						"_path": "Path024_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "358",
+						"_path": "Path021_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "70"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "358",
+						"_path": "Path024_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "360",
+						"_path": "Path024_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "362",
+						"_path": "Path024_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "386",
+						"_path": "Path007_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "387",
+						"_path": "Path023_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "388",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "389",
+						"_path": "Path017_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "2",
+						"_awake": "390",
+						"_path": "Path013_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "3",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "4.5",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "6",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "6",
+						"_path": "Path013_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "7.5",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "7.5",
+						"_path": "Path013_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "9",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "9",
+						"_path": "Path013_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "10.5",
+						"_path": "Path013_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "12",
+						"_path": "Path013_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "21",
+						"_path": "Path015_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "22.5",
+						"_path": "Path015_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "24",
+						"_path": "Path015_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "25.5",
+						"_path": "Path015_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "27",
+						"_path": "Path015_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "57",
+						"_path": "Path021_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "58.5",
+						"_path": "Path021_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "60",
+						"_path": "Path021_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "61.5",
+						"_path": "Path021_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "63",
+						"_path": "Path021_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "79",
+						"_path": "Path026_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "81",
+						"_path": "Path026_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "83",
+						"_path": "Path026_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "85",
+						"_path": "Path026_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "87",
+						"_path": "Path026_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "89",
+						"_path": "Path026_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "108",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "110",
+						"_path": "Path014_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "112",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "114",
+						"_path": "Path014_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "116",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "118",
+						"_path": "Path014_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "126",
+						"_path": "Path013_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "127",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "128",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "129",
+						"_path": "Path013_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "136",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "138",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "140",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "142",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "144",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "210",
+						"_path": "Path004_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "212",
+						"_path": "Path004_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "214",
+						"_path": "Path004_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "216",
+						"_path": "Path004_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "218",
+						"_path": "Path004_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "232",
+						"_path": "Path007_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "232",
+						"_path": "Path013_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "234",
+						"_path": "Path017_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "234",
+						"_path": "Path015_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "238",
+						"_path": "Path003_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "250",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "252",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "254",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "256",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "258",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "310",
+						"_path": "Path028_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "312",
+						"_path": "Path028_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "314",
+						"_path": "Path028_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "316",
+						"_path": "Path028_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "318",
+						"_path": "Path028_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "320",
+						"_path": "Path023_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "322",
+						"_path": "Path023_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "324",
+						"_path": "Path023_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "326",
+						"_path": "Path023_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "328",
+						"_path": "Path023_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "65"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "330",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "332",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "334",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "336",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "338",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "350",
+						"_path": "Path023_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "352",
+						"_path": "Path007_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "354",
+						"_path": "Path013_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "356",
+						"_path": "Path017_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "358",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "390",
+						"_path": "Path024_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "392",
+						"_path": "Path024_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "394",
+						"_path": "Path024_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "396",
+						"_path": "Path024_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "3",
+						"_awake": "398",
+						"_path": "Path024_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "7",
+						"_path": "Path024_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "7",
+						"_path": "Path024_01",
+						"_offsetX": "-100",
+						"_offsetY": "-50",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "7",
+						"_path": "Path024_01",
+						"_offsetX": "-100",
+						"_offsetY": "50",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "33",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "33",
+						"_path": "Path003_02",
+						"_offsetX": "100",
+						"_offsetY": "-50",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "33",
+						"_path": "Path003_02",
+						"_offsetX": "100",
+						"_offsetY": "50",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "40",
+						"_path": "Path022_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "40",
+						"_path": "Path022_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "42",
+						"_path": "Path022_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "42",
+						"_path": "Path022_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "44",
+						"_path": "Path022_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "44",
+						"_path": "Path022_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "46",
+						"_path": "Path022_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "48",
+						"_path": "Path022_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "106",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "106",
+						"_path": "Path003_01",
+						"_offsetX": "100",
+						"_offsetY": "-50",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "106",
+						"_path": "Path003_01",
+						"_offsetX": "100",
+						"_offsetY": "50",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "146",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "146",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "146",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "146",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "148",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "148",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "148",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "148",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "150",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "150",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "150",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "150",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "198",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "198",
+						"_path": "Path004_04",
+						"_offsetX": "-100",
+						"_offsetY": "50",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "198",
+						"_path": "Path004_04",
+						"_offsetX": "-100",
+						"_offsetY": "-50",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "220",
+						"_path": "Path004_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "220",
+						"_path": "Path004_01",
+						"_offsetX": "-100",
+						"_offsetY": "50",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "220",
+						"_path": "Path004_01",
+						"_offsetX": "-100",
+						"_offsetY": "-50",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "230",
+						"_path": "Path003_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "230",
+						"_path": "Path003_04",
+						"_offsetX": "100",
+						"_offsetY": "-50",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "230",
+						"_path": "Path003_04",
+						"_offsetX": "100",
+						"_offsetY": "50",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "252",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "254",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "256",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "258",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "262",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "264",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "266",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "268",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "270",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "338",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "338",
+						"_path": "Path004_04",
+						"_offsetX": "-100",
+						"_offsetY": "50",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "338",
+						"_path": "Path004_04",
+						"_offsetX": "-100",
+						"_offsetY": "-50",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "366",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "366",
+						"_path": "Path003_01",
+						"_offsetX": "100",
+						"_offsetY": "-50",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "366",
+						"_path": "Path003_01",
+						"_offsetX": "100",
+						"_offsetY": "50",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "380",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "380",
+						"_path": "Path003_01",
+						"_offsetX": "100",
+						"_offsetY": "-50",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "380",
+						"_path": "Path003_01",
+						"_offsetX": "100",
+						"_offsetY": "50",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "394",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "394",
+						"_path": "Path004_04",
+						"_offsetX": "-100",
+						"_offsetY": "50",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "4",
+						"_awake": "394",
+						"_path": "Path004_04",
+						"_offsetX": "-100",
+						"_offsetY": "-50",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "13",
+						"_path": "Path003_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "14.5",
+						"_path": "Path003_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "46",
+						"_path": "Path021_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "48",
+						"_path": "Path021_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "50",
+						"_path": "Path022_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "52",
+						"_path": "Path022_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "54",
+						"_path": "Path022_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "112",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "114",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "124",
+						"_path": "Path017_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "124",
+						"_path": "Path013_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "156",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "156",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "156",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "156",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "158",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "158",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "158",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "158",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "160",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "160",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "160",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "160",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "202",
+						"_path": "Path014_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "206",
+						"_path": "Path018_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "226",
+						"_path": "Path014_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "228",
+						"_path": "Path018_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "260",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "262",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "264",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "266",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "272",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "274",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "276",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "344",
+						"_path": "Path014_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "348",
+						"_path": "Path018_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "390",
+						"_path": "Path014_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "392",
+						"_path": "Path018_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "0",
+						"_path": "Path018_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "4",
+						"_path": "Path018_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "84",
+						"_path": "Path021_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "88",
+						"_path": "Path021_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "92",
+						"_path": "Path021_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "120",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "120",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "138",
+						"_path": "Path018_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "142",
+						"_path": "Path016_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "146",
+						"_path": "Path004_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "196",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "200",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "214",
+						"_path": "Path017_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "216",
+						"_path": "Path013_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "264",
+						"_path": "Path027_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "268",
+						"_path": "Path027_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "272",
+						"_path": "Path027_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "276",
+						"_path": "Path028_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "280",
+						"_path": "Path028_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "284",
+						"_path": "Path028_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "310",
+						"_path": "Path026_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "315",
+						"_path": "Path026_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "320",
+						"_path": "Path026_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "338",
+						"_path": "Path017_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "342",
+						"_path": "Path013_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "368",
+						"_path": "Path004_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "370",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "372",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "398",
+						"_path": "Path013_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "6",
+						"_awake": "402",
+						"_path": "Path017_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "0",
+						"_path": "Path016_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "1.5",
+						"_path": "Path016_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "3",
+						"_path": "Path016_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "12",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "13.5",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "15",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "24",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "25.5",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "27",
+						"_path": "Path017_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "27",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28.5",
+						"_path": "Path017_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "30",
+						"_path": "Path017_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "40",
+						"_path": "Path021_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "40",
+						"_path": "Path021_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "42",
+						"_path": "Path021_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "42",
+						"_path": "Path021_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "44",
+						"_path": "Path021_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "44",
+						"_path": "Path021_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "46",
+						"_path": "Path021_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "48",
+						"_path": "Path021_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "65",
+						"_path": "Path022_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "66",
+						"_path": "Path026_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "67",
+						"_path": "Path026_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "68",
+						"_path": "Path022_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "69",
+						"_path": "Path022_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "70",
+						"_path": "Path022_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "106",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "108",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "110",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "112",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "114",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "116",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "118",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "126",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "128",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "130",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "132",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "134",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "136",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "166",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "166",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "166",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "166",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "168",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "168",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "168",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "168",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "170",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "170",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "170",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "170",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "197",
+						"_path": "Path011_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "197",
+						"_path": "Path013_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "198",
+						"_path": "Path011_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "198",
+						"_path": "Path013_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "199",
+						"_path": "Path011_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "199",
+						"_path": "Path013_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "200",
+						"_path": "Path011_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "200",
+						"_path": "Path013_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "201",
+						"_path": "Path013_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "201",
+						"_path": "Path011_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "202",
+						"_path": "Path013_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "202",
+						"_path": "Path011_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "203",
+						"_path": "Path013_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "203",
+						"_path": "Path011_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "204",
+						"_path": "Path013_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "204",
+						"_path": "Path011_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "210",
+						"_path": "Path003_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "210",
+						"_path": "Path003_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "212",
+						"_path": "Path003_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "212",
+						"_path": "Path003_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "252",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "254",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "256",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "258",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "262",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "264",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "266",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "268",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "270",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "274",
+						"_path": "Path025_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "275",
+						"_path": "Path027_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "276",
+						"_path": "Path025_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "277",
+						"_path": "Path027_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "278",
+						"_path": "Path025_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "279",
+						"_path": "Path027_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "330",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "332",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "334",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "336",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "384",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "386",
+						"_path": "Path008_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "388",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "392",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "394",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "396",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "7.5",
+						"_path": "Path018_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "28.5",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "30",
+						"_path": "Path005_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "46",
+						"_path": "Path022_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "48",
+						"_path": "Path022_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "50",
+						"_path": "Path021_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "52",
+						"_path": "Path021_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "54",
+						"_path": "Path021_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "128",
+						"_path": "Path016_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "130",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "176",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "176",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "176",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "176",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "178",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "178",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "178",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "178",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "180",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "180",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "180",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "180",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "204",
+						"_path": "Path003_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "206",
+						"_path": "Path017_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "218",
+						"_path": "Path017_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "220",
+						"_path": "Path003_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "260",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "262",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "264",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "266",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "272",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "274",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "276",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "282",
+						"_path": "Path027_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "286",
+						"_path": "Path025_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "344",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "346",
+						"_path": "Path003_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "384",
+						"_path": "Path013_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "388",
+						"_path": "Path017_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "70",
+						"_path": "Path010_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "70",
+						"_path": "Path010_08",
+						"_offsetX": "50",
+						"_offsetY": "-100",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "70",
+						"_path": "Path010_08",
+						"_offsetX": "-100",
+						"_offsetY": "-50",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "120",
+						"_path": "Path009_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "120",
+						"_path": "Path009_07",
+						"_offsetX": "-50",
+						"_offsetY": "-100",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "120",
+						"_path": "Path009_07",
+						"_offsetX": "100",
+						"_offsetY": "-50",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "160",
+						"_path": "Path010_10",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "160",
+						"_path": "Path010_10",
+						"_offsetX": "50",
+						"_offsetY": "-100",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "160",
+						"_path": "Path010_10",
+						"_offsetX": "-100",
+						"_offsetY": "-50",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "250",
+						"_path": "Path009_10",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "250",
+						"_path": "Path009_10",
+						"_offsetX": "-50",
+						"_offsetY": "-100",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "250",
+						"_path": "Path009_10",
+						"_offsetX": "100",
+						"_offsetY": "-50",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "290",
+						"_path": "Path010_10",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "290",
+						"_path": "Path010_10",
+						"_offsetX": "50",
+						"_offsetY": "-100",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "290",
+						"_path": "Path010_10",
+						"_offsetX": "-100",
+						"_offsetY": "-50",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "330",
+						"_path": "Path009_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "330",
+						"_path": "Path009_07",
+						"_offsetX": "-50",
+						"_offsetY": "-100",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "330",
+						"_path": "Path009_07",
+						"_offsetX": "100",
+						"_offsetY": "-50",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "370",
+						"_path": "Path010_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "370",
+						"_path": "Path010_07",
+						"_offsetX": "50",
+						"_offsetY": "-100",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "9",
+						"_awake": "370",
+						"_path": "Path010_07",
+						"_offsetX": "-100",
+						"_offsetY": "-50",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "9",
+						"_path": "Path003_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "12",
+						"_path": "Path003_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "76",
+						"_path": "Path022_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "77",
+						"_path": "Path026_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "140",
+						"_path": "Path005_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "143",
+						"_path": "Path005_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "244",
+						"_path": "Path014_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "248",
+						"_path": "Path015_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "248",
+						"_path": "Path004_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "252",
+						"_path": "Path015_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "400",
+						"_path": "Path018_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "406",
+						"_path": "Path018_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "55"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "0",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "2",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "4",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "33",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "34.5",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "36",
+						"_path": "Path018_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "50",
+						"_path": "Path022_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "52",
+						"_path": "Path022_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "54",
+						"_path": "Path022_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "56",
+						"_path": "Path022_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "58",
+						"_path": "Path022_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "106",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "108",
+						"_path": "Path005_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "110",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "112",
+						"_path": "Path005_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "186",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "186",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "186",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "186",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "188",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "188",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "188",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "188",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "190",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "190",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "190",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "190",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "252",
+						"_path": "Path017_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "254",
+						"_path": "Path017_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "256",
+						"_path": "Path017_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "258",
+						"_path": "Path017_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "260",
+						"_path": "Path017_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "270",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "272",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "274",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "276",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "278",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "278",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "280",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "282",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "284",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "286",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "360",
+						"_path": "Path018_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "362",
+						"_path": "Path018_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "364",
+						"_path": "Path008_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "366",
+						"_path": "Path018_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "368",
+						"_path": "Path018_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "400",
+						"_path": "Path023_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "402",
+						"_path": "Path023_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "404",
+						"_path": "Path023_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "406",
+						"_path": "Path023_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "408",
+						"_path": "Path023_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "0",
+						"_path": "Path024_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "2",
+						"_path": "Path024_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "30",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "31.5",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "33",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "50",
+						"_path": "Path021_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "52",
+						"_path": "Path021_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "54",
+						"_path": "Path021_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "56",
+						"_path": "Path021_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "58",
+						"_path": "Path021_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "120",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "122",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "124",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "126",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "128",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "242",
+						"_path": "Path023_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "244",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "246",
+						"_path": "Path023_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "248",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "250",
+						"_path": "Path023_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "252",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "270",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "272",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "274",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "276",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "278",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "278",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "280",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "282",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "284",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "286",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "360",
+						"_path": "Path007_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "362",
+						"_path": "Path017_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "362",
+						"_path": "Path017_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "364",
+						"_path": "Path017_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "364",
+						"_path": "Path017_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "398",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "400",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "402",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "404",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "12",
+						"_awake": "406",
+						"_path": "Path004_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "13",
+						"_awake": "36",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "13",
+						"_awake": "110",
+						"_path": "Path003_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "13",
+						"_awake": "183",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "13",
+						"_awake": "183",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "13",
+						"_awake": "183",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "13",
+						"_awake": "183",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "13",
+						"_awake": "268",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "13",
+						"_awake": "268",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "13",
+						"_awake": "346",
+						"_path": "Path017_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "13",
+						"_awake": "408",
+						"_path": "Path008_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "14",
+						"_awake": "65",
+						"_path": "Path021_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "14",
+						"_awake": "68",
+						"_path": "Path021_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "14",
+						"_awake": "138",
+						"_path": "Path023_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "14",
+						"_awake": "153",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "14",
+						"_awake": "153",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "14",
+						"_awake": "153",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "14",
+						"_awake": "153",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "14",
+						"_awake": "288",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "14",
+						"_awake": "288",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "14",
+						"_awake": "354",
+						"_path": "Path004_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "15",
+						"_awake": "12",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "15",
+						"_awake": "122",
+						"_path": "Path023_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "15",
+						"_awake": "163",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "15",
+						"_awake": "163",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "15",
+						"_awake": "163",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "15",
+						"_awake": "163",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "15",
+						"_awake": "236",
+						"_path": "Path024_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "15",
+						"_awake": "260",
+						"_path": "Path030_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "15",
+						"_awake": "260",
+						"_path": "Path029_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "15",
+						"_awake": "360",
+						"_path": "Path005_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "15",
+						"_awake": "410",
+						"_path": "Path023_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "16",
+						"_awake": "24",
+						"_path": "Path014_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "16",
+						"_awake": "173",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "16",
+						"_awake": "173",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "16",
+						"_awake": "173",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "16",
+						"_awake": "173",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "16",
+						"_awake": "196",
+						"_path": "Path024_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "16",
+						"_awake": "250",
+						"_path": "Path029_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "16",
+						"_awake": "250",
+						"_path": "Path030_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "16",
+						"_awake": "364",
+						"_path": "Path003_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "17",
+						"_awake": "16",
+						"_path": "Path013_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "17",
+						"_awake": "80",
+						"_path": "Path025_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "17",
+						"_awake": "193",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "17",
+						"_awake": "193",
+						"_path": "Path023_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "17",
+						"_awake": "193",
+						"_path": "Path024_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "17",
+						"_awake": "193",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "50"
+					},
+					{
+						"_type_id": "17",
+						"_awake": "210",
+						"_path": "Path023_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "17",
+						"_awake": "260",
+						"_path": "Path025_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "17",
+						"_awake": "305",
+						"_path": "Path026_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "17",
+						"_awake": "378",
+						"_path": "Path008_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "18",
+						"_awake": "27",
+						"_path": "Path024_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "18",
+						"_awake": "102",
+						"_path": "Path024_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "18",
+						"_awake": "180",
+						"_path": "Path039_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "18",
+						"_awake": "226",
+						"_path": "Path023_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "18",
+						"_awake": "290",
+						"_path": "Path040_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "18",
+						"_awake": "374",
+						"_path": "Path039_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "19",
+						"_awake": "6",
+						"_path": "Path037_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "19",
+						"_awake": "98",
+						"_path": "Path039_09",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "19",
+						"_awake": "180",
+						"_path": "Path040_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "19",
+						"_awake": "236",
+						"_path": "Path040_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "19",
+						"_awake": "290",
+						"_path": "Path039_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "19",
+						"_awake": "384",
+						"_path": "Path040_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "31",
+						"_awake": "16",
+						"_path": "Path033_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "35"
+					},
+					{
+						"_type_id": "31",
+						"_awake": "300",
+						"_path": "Path034_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "35"
+					},
+					{
+						"_type_id": "32",
+						"_awake": "54",
+						"_path": "Path038_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "32",
+						"_awake": "384",
+						"_path": "Path035_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "33",
+						"_awake": "170",
+						"_path": "Path031_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "33",
+						"_awake": "265",
+						"_path": "Path032_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "34",
+						"_awake": "130",
+						"_path": "Path017_07",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "34",
+						"_awake": "240",
+						"_path": "Path014_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "35",
+						"_awake": "85",
+						"_path": "Path009_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "35",
+						"_awake": "330",
+						"_path": "Path010_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "36",
+						"_awake": "110",
+						"_path": "Path006_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "36",
+						"_awake": "210",
+						"_path": "Path015_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					},
+					{
+						"_type_id": "61",
+						"_awake": "120",
+						"_path": "Path034_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "35"
+					},
+					{
+						"_type_id": "61",
+						"_awake": "230",
+						"_path": "Path034_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "35"
+					},
+					{
+						"_type_id": "61",
+						"_awake": "340",
+						"_path": "Path033_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "35"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "64",
+						"_path": "Path024_08",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "64",
+						"_path": "Path023_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "150",
+						"_path": "Path010_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "150",
+						"_path": "Path009_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "275",
+						"_path": "Path017_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "275",
+						"_path": "Path018_05",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "364",
+						"_path": "Path016_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "370",
+						"_path": "Path005_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "40"
+					},
+					{
+						"_type_id": "63",
+						"_awake": "25",
+						"_path": "Path013_03",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "35"
+					},
+					{
+						"_type_id": "63",
+						"_awake": "95",
+						"_path": "Path018_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "35"
+					},
+					{
+						"_type_id": "63",
+						"_awake": "170",
+						"_path": "Path014_06",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "35"
+					},
+					{
+						"_type_id": "63",
+						"_awake": "310",
+						"_path": "Path017_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "35"
+					},
+					{
+						"_type_id": "63",
+						"_awake": "370",
+						"_path": "Path018_02",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "35"
+					},
+					{
+						"_type_id": "71",
+						"_awake": "196",
+						"_path": "Path171_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "72",
+						"_awake": "196",
+						"_path": "Path172_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "73",
+						"_awake": "196",
+						"_path": "Path173_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "74",
+						"_awake": "196",
+						"_path": "Path174_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "75",
+						"_awake": "196",
+						"_path": "Path175_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "76",
+						"_awake": "196",
+						"_path": "Path176_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "60"
+					},
+					{
+						"_type_id": "101",
+						"_awake": "210",
+						"_path": "Path101_04",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "45"
+					}
+				],
+				"_group_id": "121"
+			},
+			{
+				"element": [
+					{
+						"_type_id": "1",
+						"_awake": "0",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "0",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "1",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "1",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "2",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "2",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "3",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "3",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "4",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "4",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "6",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "6",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "7",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "7",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "8",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "8",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "9",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "9",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "10",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "10",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "12",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "12",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "13",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "13",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "14",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "14",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "15",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "15",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "16",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "1",
+						"_awake": "16",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "20",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "20",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "21",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "21",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "22",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "22",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "23",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "23",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "24",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "24",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "26",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "26",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "27",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "27",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "28",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "28",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "29",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "29",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "30",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "30",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "32",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "32",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "33",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "33",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "34",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "34",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "35",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "35",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "36",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "5",
+						"_awake": "36",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "0",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "0",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "1",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "1",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "2",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "2",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "3",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "3",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "4",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "4",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "6",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "6",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "7",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "7",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "8",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "8",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "9",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "9",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "10",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "10",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "12",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "12",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "13",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "13",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "14",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "14",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "15",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "15",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "16",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "16",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path519_01",
+						"_offsetX": "100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path519_01",
+						"_offsetX": "-100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path519_01",
+						"_offsetX": "100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path519_01",
+						"_offsetX": "-100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path518_01",
+						"_offsetX": "-100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path518_01",
+						"_offsetX": "100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path518_01",
+						"_offsetX": "-100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path518_01",
+						"_offsetX": "100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path515_01",
+						"_offsetX": "-100",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path515_01",
+						"_offsetX": "100",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "22",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path519_01",
+						"_offsetX": "100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path519_01",
+						"_offsetX": "-100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path519_01",
+						"_offsetX": "100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path519_01",
+						"_offsetX": "-100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path518_01",
+						"_offsetX": "-100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path518_01",
+						"_offsetX": "100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path518_01",
+						"_offsetX": "-100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path518_01",
+						"_offsetX": "100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path515_01",
+						"_offsetX": "-100",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path515_01",
+						"_offsetX": "100",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "28",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path519_01",
+						"_offsetX": "100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path519_01",
+						"_offsetX": "-100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path519_01",
+						"_offsetX": "100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path519_01",
+						"_offsetX": "-100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path518_01",
+						"_offsetX": "-100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path518_01",
+						"_offsetX": "100",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path518_01",
+						"_offsetX": "-100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path518_01",
+						"_offsetX": "100",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path515_01",
+						"_offsetX": "-100",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path515_01",
+						"_offsetX": "100",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "7",
+						"_awake": "32",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "0",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "0",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "0",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "1",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "1",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "1",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "2",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "2",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "2",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "3",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "3",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "3",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "4",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "4",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "4",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "6",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "6",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "6",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "7",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "7",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "7",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "8",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "8",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "8",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "9",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "9",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "9",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "10",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "10",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "10",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "14",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "14",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "14",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "15",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "15",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "15",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "16",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "16",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "16",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "17",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "17",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "17",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "18",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "18",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "8",
+						"_awake": "18",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-100",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "100",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-200",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-200",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "200",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "200",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-300",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "300",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-400",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-400",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "400",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "400",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-500",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "500",
+						"_offsetY": "-100",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-600",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-600",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "600",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "600",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-500",
+						"_offsetY": "-300",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-300",
+						"_offsetY": "-300",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-100",
+						"_offsetY": "-300",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "100",
+						"_offsetY": "-300",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "300",
+						"_offsetY": "-300",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "500",
+						"_offsetY": "-300",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-400",
+						"_offsetY": "-400",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-200",
+						"_offsetY": "-400",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "-400",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "200",
+						"_offsetY": "-400",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "10",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "400",
+						"_offsetY": "-400",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "20",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "20",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "21",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "21",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "22",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "22",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "23",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "23",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "24",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "24",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "26",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "26",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "27",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "27",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "28",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "28",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "29",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "29",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "30",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "30",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "32",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "32",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "33",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "33",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "34",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "34",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "35",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "35",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "36",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "11",
+						"_awake": "36",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "16",
+						"_awake": "18",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "16",
+						"_awake": "18",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "18",
+						"_awake": "18",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "18",
+						"_awake": "18",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "19",
+						"_awake": "38",
+						"_path": "Path516_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "19",
+						"_awake": "38",
+						"_path": "Path517_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "32",
+						"_awake": "38",
+						"_path": "Path508_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "32",
+						"_awake": "38",
+						"_path": "Path509_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "34",
+						"_awake": "37",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "34",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "-400",
+						"_offsetY": "-600",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "34",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "400",
+						"_offsetY": "-600",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "36",
+						"_awake": "12",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "36",
+						"_awake": "20",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "36",
+						"_awake": "20",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "12",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "12",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "20",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "27",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "27",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "32",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "37",
+						"_path": "Path519_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "37",
+						"_path": "Path518_01",
+						"_offsetX": "0",
+						"_offsetY": "0",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "-200",
+						"_speed": "80"
+					},
+					{
+						"_type_id": "62",
+						"_awake": "40",
+						"_path": "Path515_01",
+						"_offsetX": "0",
+						"_offsetY": "-600",
+						"_speed": "80"
+					}
+				],
+				"_group_id": "132"
+			}
+		],
+		"_version": "20201022160408"
+	}
+}

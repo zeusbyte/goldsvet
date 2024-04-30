@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="472.54" height="511.99" viewBox="0 0 472.54 511.99">
+  <title>levelup</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <rect x="163.43" y="178.15" width="145.68" height="333.84" style="fill: #298983"/>
+        <polygon points="163.35 318.79 238.15 249.64 309.22 318.79 309.22 248.68 233.46 173.76 163.6 241.96 163.35 318.79" style="fill: #0e665d"/>
+        <rect x="2.62" y="96.76" width="333.83" height="145.68" transform="translate(-70.27 169.55) rotate(-45)" style="fill: #a5f2e5"/>
+        <polygon points="414.92 178.5 472.54 236.12 369.53 339.13 133.41 103.01 236.42 0 357.9 121.49 414.92 178.5" style="fill: #62d9c7"/>
+        <polyline points="236.22 205.85 216.63 225.41 113.58 122.55 133.3 102.86 236.34 205.73" style="fill: #88ead9"/>
+      </g>
+    </g>
+  </g>
+</svg>
