@@ -1,0 +1,13 @@
+{
+
+"port":"22197",
+
+"host":"localhost",
+"prefix":"https://",
+
+"host_ws":"localhost",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}
