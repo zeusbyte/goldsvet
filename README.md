@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-    <a href="https://playandwin.info/" title="DEMO"><strong>DEMO</strong></a> &nbsp; | &nbsp;
-    <a href="https://cosmo-win.club/" title="DEMO 2"><strong>DEMO 2</strong></a> &nbsp; | &nbsp;
+<!--     <a href="https://playandwin.info/" title="DEMO"><strong>DEMO</strong></a> &nbsp; | &nbsp;
+    <a href="https://cosmo-win.club/" title="DEMO 2"><strong>DEMO 2</strong></a> &nbsp; | &nbsp; -->
     <a href="https://t.me/goldsvet1" rel="nofollow"><strong>TELEGRAM GROUP</strong></a>
 </p>
 
