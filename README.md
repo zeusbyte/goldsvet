@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <a href="https://checkslots.store/" title="DEMO"><strong>DEMO</strong></a> &nbsp; | &nbsp;
+    <a href="https://win365.uk.to/" title="DEMO"><strong>DEMO</strong></a> &nbsp; | &nbsp;
     <a href="https://t.me/osscasino" rel="nofollow"><strong>TELEGRAM GROUP</strong></a>
 </p>
 
