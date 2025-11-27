@@ -1,0 +1,119 @@
+
+.swal-modal{
+    border-radius: 0;
+}
+
+.swal-title{
+    text-align: left;
+    line-height: 1.42857143;
+    font-size: 14px;
+    margin: 0 !important;
+    padding: 15px;
+    border-bottom: 1px solid #e5e5e5;
+    font-weight: 400;
+}
+
+.swal-text{
+    padding: 15px;
+    display: block;
+    font-weight: 700;
+}
+
+.swal-footer{
+    border-top: 1px solid #e5e5e5;
+}
+
+.swal-button{
+    color: #fff;
+    border-radius: 0;
+    background-color: #3c8dbc;
+    border-color: #367fa9;
+    font-weight: 400;
+    padding: 7px 24px;
+}
+.swal2-popup{
+    width: 48em;
+}
+
+.swal2-html-container{
+    text-align: left;
+    padding: 20px 10px;
+}
+
+.swal2-header{
+    padding: 1.5rem;
+    align-items: flex-start;
+    border-bottom-color: #f4f4f4;
+}
+
+.swal2-close{
+    padding: 1.5rem 2rem 1rem 1rem
+}
+
+.swal2-title {
+    margin: 0;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: left;
+    font-family: 'Source Sans Pro',sans-serif;
+    color: #000;
+}
+.swal2-content{
+    font-size: 14px;
+}
+.swal2-actions{
+    padding: 15px 10px;
+    border-top: 1px solid #f4f4f4;
+    -webkit-box-align: end;
+    align-items: end;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+}
+.swal2-actions button.swal2-confirm{
+    margin: 0 5px;
+}
+
+
+
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    padding: 0;
+}
+
+.swal2-close {
+    font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 21px;
+    font-weight: 800;
+    color: #000;
+    text-shadow: none;
+    opacity: .2;
+    outline: none;
+    border: 0px;
+}
+
+.swal2-close:focus{
+    border: 0px;
+    outline: none;
+}
+.swal2-close:hover {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+    filter: alpha(opacity=50);
+    opacity: .5;
+}
+
+
+.swal2-modal {
+    position: relative;
+    width: auto;
+    margin: 10px;
+}
+
+@media (min-width: 768px){
+    .swal2-modal {
+        width: 600px;
+        margin: 30px auto;
+    }
+}

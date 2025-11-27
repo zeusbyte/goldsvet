@@ -1,0 +1,13 @@
+{
+
+"port":"22154/slots",
+
+"host":"localhost",
+"prefix":"https://",
+
+"host_ws":"localhost",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}
