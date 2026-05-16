@@ -127,9 +127,15 @@ $(function () {
 
   // Fix for charts under tabs
   $('.box ul.nav a').on('shown.bs.tab', function () {
-    area.redraw();
-    donut.redraw();
-    line.redraw();
+    if (window.area) {
+      window.area.redraw();
+    }
+    if (window.donut) {
+      window.donut.redraw();
+    }
+    if (window.line) {
+      window.line.redraw();
+    }
   });
 
   /* The todo list plugin */

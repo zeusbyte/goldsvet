@@ -1,0 +1,390 @@
+:root {
+  color: #f7f3e8;
+  background: #151515;
+  font-family:
+    Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  --panel: #20211f;
+  --panel-strong: #292b28;
+  --line: rgba(255, 255, 255, 0.12);
+  --muted: #b9b2a3;
+  --gold: #d8b35a;
+  --mint: #6ed7a5;
+  --red: #e26d5a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background:
+    linear-gradient(135deg, rgba(216, 179, 90, 0.14), transparent 34%),
+    linear-gradient(225deg, rgba(110, 215, 165, 0.1), transparent 32%),
+    #151515;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.58;
+}
+
+.shell {
+  width: min(1180px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 28px 0 42px;
+}
+
+.hero {
+  min-height: 310px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 430px);
+  align-items: center;
+  gap: 28px;
+  border-bottom: 1px solid var(--line);
+}
+
+.heroCopy h1 {
+  margin: 0;
+  font-size: clamp(48px, 9vw, 112px);
+  line-height: 0.9;
+  letter-spacing: 0;
+}
+
+.eyebrow {
+  margin: 0 0 10px;
+  color: var(--gold);
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.heroImage {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 1px solid var(--line);
+}
+
+.statusRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 22px;
+  color: var(--muted);
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  background: var(--red);
+}
+
+.dot.isOk {
+  background: var(--mint);
+}
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin: 22px 0;
+}
+
+.metrics article,
+.adminMetrics article,
+.consolePanel,
+.dataPanel,
+.gameCard {
+  background: rgba(32, 33, 31, 0.88);
+  border: 1px solid var(--line);
+}
+
+.metrics article,
+.adminMetrics article {
+  min-height: 104px;
+  display: grid;
+  gap: 7px;
+  padding: 18px;
+}
+
+.metrics svg,
+.adminMetrics svg {
+  color: var(--gold);
+}
+
+.metrics span,
+.adminMetrics span {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.metrics strong,
+.adminMetrics strong {
+  font-size: 22px;
+}
+
+.alert {
+  margin-bottom: 18px;
+  padding: 14px 16px;
+  color: #301310;
+  background: #ffb7a8;
+  border: 1px solid #ff8f7a;
+}
+
+.workspace {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  gap: 18px;
+  align-items: start;
+}
+
+.sectionHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 14px;
+}
+
+.sectionHeader h2,
+.consolePanel h2 {
+  margin: 0;
+  font-size: 26px;
+}
+
+.iconButton,
+.primaryButton,
+.gameCard button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 40px;
+  border: 1px solid var(--line);
+  color: #111;
+  background: var(--gold);
+  font-weight: 800;
+}
+
+.iconButton {
+  padding: 0 14px;
+}
+
+.gameGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.gameCard {
+  min-height: 260px;
+  display: grid;
+  grid-template-rows: 128px 1fr auto;
+  overflow: hidden;
+}
+
+.gameCard.isSelected {
+  border-color: var(--gold);
+}
+
+.gameCard img {
+  width: 100%;
+  height: 128px;
+  object-fit: cover;
+}
+
+.gameCard > div {
+  padding: 14px;
+}
+
+.gameCard p,
+.gameCard span,
+.consolePanel dt {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.gameCard p,
+.gameCard h3 {
+  margin: 0 0 8px;
+}
+
+.gameCard footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px;
+  border-top: 1px solid var(--line);
+}
+
+.gameCard button {
+  min-width: 112px;
+}
+
+.consolePanel {
+  position: sticky;
+  top: 18px;
+  display: grid;
+  gap: 18px;
+  padding: 18px;
+}
+
+.consolePanel label {
+  display: grid;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.consolePanel input {
+  min-height: 44px;
+  width: 100%;
+  border: 1px solid var(--line);
+  color: #f7f3e8;
+  background: #151515;
+  padding: 0 12px;
+}
+
+.primaryButton {
+  width: 100%;
+}
+
+.consolePanel dl {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+}
+
+.consolePanel dl div {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+}
+
+.consolePanel dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.adminWorkspace {
+  margin-top: 28px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+}
+
+.adminMetrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.adminTables {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.dataPanel {
+  min-width: 0;
+}
+
+.dataPanel h3 {
+  margin: 0;
+  padding: 16px;
+  border-bottom: 1px solid var(--line);
+  font-size: 17px;
+}
+
+.tableShell {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 430px;
+}
+
+th,
+td {
+  padding: 11px 12px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  font-size: 12px;
+  vertical-align: top;
+}
+
+th {
+  color: var(--gold);
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+td {
+  color: var(--muted);
+}
+
+@media (max-width: 900px) {
+  .hero,
+  .workspace {
+    grid-template-columns: 1fr;
+  }
+
+  .metrics {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .adminMetrics,
+  .adminTables {
+    grid-template-columns: 1fr;
+  }
+
+  .consolePanel {
+    position: static;
+  }
+}
+
+@media (max-width: 620px) {
+  .shell {
+    width: min(100% - 20px, 1180px);
+    padding-top: 16px;
+  }
+
+  .hero {
+    min-height: unset;
+    gap: 18px;
+  }
+
+  .metrics,
+  .adminMetrics,
+  .gameGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .sectionHeader {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .iconButton {
+    width: 100%;
+  }
+}
