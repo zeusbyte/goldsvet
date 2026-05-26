@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-     <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet/main/2025.jpg" alt="OSS Casino1" width="80%">
+     <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet/main/2026.png" alt="OSS Casino1" width="80%">
 </p>
 
 <h2>This code is just a preview. Contact admin on Telegram for the full version.</h2>
