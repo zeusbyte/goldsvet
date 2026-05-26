@@ -38,9 +38,9 @@
     - OS: Almalinux 8 / CentOS 7 recommended
     - Apache
     - MySQL
-    - PHP 8.0+
-    - Laravel 10
-    - Node.js 16
+    - PHP 8.3+
+    - Laravel 12
+    - Node.js 22
     - PM2
     - Redis
 
