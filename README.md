@@ -1,4 +1,4 @@
-<h1 align="center">OSS Casino 2K25</h1>
+<h1 align="center">OSS Casino 2026</h1>
 <h2 align="center">Formerly Goldsvet</h2>
 <h2 align="center">Web Casino Server Configuration Guide</h2>
 <p align="center">
@@ -17,11 +17,11 @@
 <h3 align="center" style="color: #ff0000;">BEWARE OF ANY FORK/LINK THAT IMPERSONATES OUR OFFICIAL ACCOUNT @goldsvetcasino1 this not our GROUP anymore. The new group USERNAME is @osscasino.</h3>
 
 <p align="center">
-    <span style="color:#ff0000"><strong>OSS Casino Latest 2025 release adds Laravel 10 and PHP 8.1+ support, Easy-Installer.</strong></span>
+    <span style="color:#ff0000"><strong>OSS Casino Latest 2026 release adds Laravel 10 and PHP 8.1+ support, Easy-Installer.</strong></span>
 </p>
 
 <p align="center">
-     <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet/main/2025.jpg" alt="OSS Casino1" width="80%">
+     <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet/main/2026.jpg" alt="OSS Casino1" width="80%">
 </p>
 
 <h2>This code is just a preview. Contact admin on Telegram for the full version.</h2>
