@@ -26,11 +26,11 @@
 
 <h2>This code is just a preview. Contact admin on Telegram for the full version.</h2>
 
-<p><b>Currently, we provide the full source on my Telegram. There are approximately 1200 games totaling 45+ GB, including the latest Pragmatic games fixed & support mobile responsive.</b></p>
+<p><b>Currently, we provide the full source on my Telegram. There are approximately 1200 games totaling 45+ GB, including the latest Pragmatic games, PGsoft games fixed & support mobile responsive.</b></p>
 <p><b>You can message me on Telegram for the full source code, including installation into your VPS/Dedicated Server.</b></p>
 
 <p style="color:#ff0000"><strong>Multiple fixes and merged single database.</strong></p>
-<p>Demo USER /Demo Play games have been added and activated. Added 100 games, bringing the total to 1200 games now.</p>
+<p>Demo USER /Demo Play games have been added and activated. Added 112 games, bringing the total to 1212 games now.</p>
 
 ### Server Setup Instructions
 
