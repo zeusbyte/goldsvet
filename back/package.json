@@ -8,9 +8,9 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "R2": "^1.4.3",
     "grunt": "^0.4.5",
     "grunt-bootlint": "^0.9.1",
+    "grunt-cli": "^1.5.0",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-csslint": "^0.5.0",
@@ -26,7 +26,12 @@
     "grunt-less": "^0.1.7",
     "grunt-notify": "^0.4.5",
     "grunt-text-replace": "^0.4.0",
-    "less": "^2.7.3"
+    "less": "^2.7.3",
+    "parserlib": "^0.2.5",
+    "R2": "^1.4.3",
+    "source-map": "^0.5.6",
+    "underscore.string": "^2.3.3",
+    "uuid": "^2.0.3"
   },
   "dependencies": {
     "bootstrap": "^3.4.0",

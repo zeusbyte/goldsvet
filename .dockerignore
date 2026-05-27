@@ -1,0 +1,16 @@
+*
+!apps
+!apps/**
+!docker
+!docker/**
+!slot.png
+
+**/node_modules
+**/vendor
+**/dist
+**/.env
+**/.env.*
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/.DS_Store

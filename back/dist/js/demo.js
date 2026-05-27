@@ -15,8 +15,9 @@ $(function () {
 
     setInterval(function() {
         var momentNow = moment();
-        $('#date-part').html(momentNow.tz(timezon).format('YYYY-MM-DD'));
-        $('#time-part').html(momentNow.tz(timezon).format('kk:mm:ss z'));
+        var timezone = moment.tz && moment.tz.guess ? moment.tz.guess() : 'UTC';
+        $('#date-part').html(momentNow.tz(timezone).format('YYYY-MM-DD'));
+        $('#time-part').html(momentNow.tz(timezone).format('kk:mm:ss z'));
     }, 1000);
 
     $('.select2').select2({
@@ -103,7 +104,6 @@ $(function () {
     $( document ).ready(function() {
         var timer = $('#sms_timer');
         var seconds = timer.data('seconds');
-        console.log('Timer start');
         startTimer(seconds, timer);
     });
 
@@ -129,11 +129,11 @@ $(function () {
         radioClass   : 'iradio_minimal-blue'
     });
 
-    $('.checkAll').on('ifChecked', function(event){
+    $('.checkAll').on('ifChecked', function(){
         $('.minimal').iCheck('check');
     });
 
-    $('.checkAll').on('ifUnchecked\t', function(event){
+    $('.checkAll').on('ifUnchecked\t', function(){
         $('.minimal').iCheck('uncheck');
     });
 

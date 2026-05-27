@@ -1,0 +1,17 @@
+node_modules/
+vendor/
+
+back/node_modules/
+back/vendor/
+apps/*/node_modules/
+apps/*/dist/
+
+.env
+.env.*
+!.env.example
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.DS_Store
